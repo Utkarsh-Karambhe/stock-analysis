@@ -33,7 +33,7 @@ Ensure **Docker** and **Docker Compose** are installed on your system.
 - [Install Docker Compose](https://docs.docker.com/compose/install/)
 
 ### 3. Configure Environment Variables
-Create a `.env` file and add your API keys:
+Create a `.env` file and add your API keys (🔑 Get your free API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key))
 ```sh
 API_KEY=your_api_key_here
 DB_HOST=postgres
