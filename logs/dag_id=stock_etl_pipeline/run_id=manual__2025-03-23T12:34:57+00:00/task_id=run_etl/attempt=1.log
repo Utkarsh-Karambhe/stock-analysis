@@ -1,0 +1,25 @@
+[2025-03-23T18:05:00.080+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-23T18:05:00.084+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: stock_etl_pipeline.run_etl manual__2025-03-23T12:34:57+00:00 [queued]>
+[2025-03-23T18:05:00.086+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: stock_etl_pipeline.run_etl manual__2025-03-23T12:34:57+00:00 [queued]>
+[2025-03-23T18:05:00.086+0530] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2025-03-23T18:05:00.091+0530] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): run_etl> on 2025-03-23 12:34:57+00:00
+[2025-03-23T18:05:00.094+0530] {standard_task_runner.py:72} INFO - Started process 50522 to run task
+[2025-03-23T18:05:00.097+0530] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'stock_etl_pipeline', 'run_etl', 'manual__2025-03-23T12:34:57+00:00', '--job-id', '52', '--raw', '--subdir', 'DAGS_FOLDER/stock_etl_dag.py', '--cfg-path', '/var/folders/85/tszsn_6n56zfd9b9p9l13r9c0000gn/T/tmp8wz1umyq']
+[2025-03-23T18:05:00.098+0530] {standard_task_runner.py:105} INFO - Job 52: Subtask run_etl
+[2025-03-23T18:05:00.116+0530] {task_command.py:467} INFO - Running <TaskInstance: stock_etl_pipeline.run_etl manual__2025-03-23T12:34:57+00:00 [running]> on host utkarshs-macbook-air.local
+[2025-03-23T18:05:00.140+0530] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='stock_etl_pipeline' AIRFLOW_CTX_TASK_ID='run_etl' AIRFLOW_CTX_EXECUTION_DATE='2025-03-23T12:34:57+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-23T12:34:57+00:00'
+[2025-03-23T18:05:00.140+0530] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-23T18:05:00.140+0530] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-23T18:05:00.140+0530] {logging_mixin.py:190} INFO - Current task name:run_etl state:running start_date:2025-03-23 12:35:00.084551+00:00
+[2025-03-23T18:05:00.141+0530] {logging_mixin.py:190} INFO - Dag name:stock_etl_pipeline and current dag run status:running
+[2025-03-23T18:05:00.141+0530] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-23T18:05:01.075+0530] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-23T18:05:01.077+0530] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-23T18:05:01.078+0530] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=stock_etl_pipeline, task_id=run_etl, run_id=manual__2025-03-23T12:34:57+00:00, execution_date=20250323T123457, start_date=20250323T123500, end_date=20250323T123501
+[2025-03-23T18:05:01.083+0530] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-23T18:05:01.083+0530] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-23T18:05:01.083+0530] {logging_mixin.py:190} INFO - Dag name:stock_etl_pipeline queued_at:2025-03-23 12:34:57.772193+00:00
+[2025-03-23T18:05:01.083+0530] {logging_mixin.py:190} INFO - Task hostname:utkarshs-macbook-air.local operator:PythonOperator
+[2025-03-23T18:05:01.089+0530] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-23T18:05:01.095+0530] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-23T18:05:01.095+0530] {local_task_job_runner.py:245} INFO - ::endgroup::

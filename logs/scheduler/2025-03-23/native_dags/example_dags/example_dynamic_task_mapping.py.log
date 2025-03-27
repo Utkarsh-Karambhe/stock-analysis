@@ -1,0 +1,694 @@
+[2025-03-23T10:22:19.245+0530] {processor.py:186} INFO - Started process (PID=33897) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T10:22:19.245+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T10:22:19.245+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.245+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T10:22:19.259+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T10:22:19.326+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.325+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_dynamic_task_mapping
+[2025-03-23T10:22:19.328+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.328+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:example_dynamic_task_mapping
+[2025-03-23T10:22:19.330+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.330+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_dynamic_task_mapping
+[2025-03-23T10:22:19.333+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.332+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_dynamic_task_mapping
+[2025-03-23T10:22:19.334+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.334+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_dynamic_task_mapping
+[2025-03-23T10:22:19.336+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.336+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_dynamic_task_mapping
+[2025-03-23T10:22:19.338+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.338+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_dynamic_task_mapping
+[2025-03-23T10:22:19.338+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.338+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T10:22:19.342+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.342+0530] {dag.py:3262} INFO - Creating ORM DAG for example_dynamic_task_mapping
+[2025-03-23T10:22:19.342+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:22:19.342+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T10:22:19.348+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.104 seconds
+[2025-03-23T10:24:44.938+0530] {processor.py:186} INFO - Started process (PID=34091) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T10:24:44.939+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T10:24:44.939+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:24:44.939+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T10:24:44.953+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T10:24:44.993+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:24:44.993+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T10:24:44.998+0530] {logging_mixin.py:190} INFO - [2025-03-23T10:24:44.998+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T10:24:45.006+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T13:49:11.827+0530] {processor.py:186} INFO - Started process (PID=38165) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:49:11.828+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:49:11.829+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:49:11.828+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:49:11.842+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:49:11.879+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:49:11.879+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:49:11.882+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:49:11.882+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:49:11.888+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T13:52:53.329+0530] {processor.py:186} INFO - Started process (PID=39044) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:52:53.330+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:52:53.331+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:52:53.331+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:52:53.344+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:52:53.381+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:52:53.380+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:52:53.384+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:52:53.384+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:52:53.390+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T13:54:25.247+0530] {processor.py:186} INFO - Started process (PID=39259) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:54:25.247+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:54:25.248+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:54:25.248+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:54:25.261+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:54:25.298+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:54:25.297+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:54:25.301+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:54:25.301+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:54:25.307+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T13:55:13.513+0530] {processor.py:186} INFO - Started process (PID=39374) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:55:13.514+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:55:13.514+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:55:13.514+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:55:13.527+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:55:13.564+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:55:13.564+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:55:13.568+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:55:13.568+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:55:13.574+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T13:56:56.783+0530] {processor.py:186} INFO - Started process (PID=39949) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:56:56.784+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:56:56.784+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:56:56.784+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:56:56.798+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:56:56.836+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:56:56.836+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:56:56.840+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:56:56.840+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:56:56.846+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T13:57:43.035+0530] {processor.py:186} INFO - Started process (PID=40065) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:57:43.035+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:57:43.035+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:57:43.035+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:57:43.048+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:57:43.085+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:57:43.085+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:57:43.089+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:57:43.089+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:57:43.094+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.061 seconds
+[2025-03-23T13:59:11.540+0530] {processor.py:186} INFO - Started process (PID=40292) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:59:11.541+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T13:59:11.542+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:59:11.542+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:59:11.555+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T13:59:11.591+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:59:11.591+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T13:59:11.595+0530] {logging_mixin.py:190} INFO - [2025-03-23T13:59:11.595+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T13:59:11.601+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T14:00:05.780+0530] {processor.py:186} INFO - Started process (PID=40422) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:00:05.781+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:00:05.781+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:00:05.781+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:00:05.795+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:00:05.831+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:00:05.831+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:00:05.835+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:00:05.835+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:00:05.841+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T14:01:39.220+0530] {processor.py:186} INFO - Started process (PID=41110) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:01:39.221+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:01:39.221+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:01:39.221+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:01:39.237+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:01:39.278+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:01:39.277+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:01:39.282+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:01:39.282+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:01:39.288+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T14:02:38.509+0530] {processor.py:186} INFO - Started process (PID=41287) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:02:38.510+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:02:38.510+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:02:38.510+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:02:38.524+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:02:38.562+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:02:38.562+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:02:38.566+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:02:38.566+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:02:38.572+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:04:11.532+0530] {processor.py:186} INFO - Started process (PID=41814) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:04:11.533+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:04:11.533+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:04:11.533+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:04:11.547+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:04:11.585+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:04:11.585+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:04:11.590+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:04:11.589+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:04:11.596+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:05:10.108+0530] {processor.py:186} INFO - Started process (PID=41971) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:05:10.111+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:05:10.111+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:05:10.111+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:05:10.125+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:05:10.162+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:05:10.162+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:05:10.166+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:05:10.166+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:05:10.171+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:06:39.615+0530] {processor.py:186} INFO - Started process (PID=42216) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:06:39.616+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:06:39.617+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:06:39.616+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:06:39.630+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:06:39.668+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:06:39.668+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:06:39.672+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:06:39.672+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:06:39.678+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T14:07:37.240+0530] {processor.py:186} INFO - Started process (PID=42372) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:07:37.241+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:07:37.241+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:07:37.241+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:07:37.255+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:07:37.296+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:07:37.296+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:07:37.300+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:07:37.300+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:07:37.306+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-03-23T14:09:03.637+0530] {processor.py:186} INFO - Started process (PID=42587) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:09:03.638+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:09:03.639+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:09:03.639+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:09:03.653+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:09:03.691+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:09:03.691+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:09:03.695+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:09:03.695+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:09:03.702+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:09:58.373+0530] {processor.py:186} INFO - Started process (PID=42724) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:09:58.374+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:09:58.374+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:09:58.374+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:09:58.387+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:09:58.424+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:09:58.423+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:09:58.427+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:09:58.427+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:09:58.434+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T14:11:35.919+0530] {processor.py:186} INFO - Started process (PID=42967) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:11:35.921+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:11:35.921+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:11:35.921+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:11:35.936+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:11:35.975+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:11:35.975+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:11:35.979+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:11:35.979+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:11:35.985+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-03-23T14:12:27.542+0530] {processor.py:186} INFO - Started process (PID=43128) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:12:27.542+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:12:27.543+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:12:27.543+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:12:27.557+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:12:27.595+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:12:27.595+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:12:27.599+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:12:27.599+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:12:27.606+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:14:07.825+0530] {processor.py:186} INFO - Started process (PID=43746) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:14:07.826+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:14:07.827+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:14:07.826+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:14:07.841+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:14:07.881+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:14:07.881+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:14:07.885+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:14:07.885+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:14:07.903+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.079 seconds
+[2025-03-23T14:15:12.336+0530] {processor.py:186} INFO - Started process (PID=43948) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:15:12.337+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:15:12.338+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:15:12.338+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:15:12.355+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:15:12.400+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:15:12.400+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:15:12.405+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:15:12.405+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:15:12.413+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.078 seconds
+[2025-03-23T14:16:47.184+0530] {processor.py:186} INFO - Started process (PID=44191) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:16:47.185+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:16:47.185+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:16:47.185+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:16:47.198+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:16:47.234+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:16:47.234+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:16:47.238+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:16:47.238+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:16:47.244+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.061 seconds
+[2025-03-23T14:17:44.003+0530] {processor.py:186} INFO - Started process (PID=44328) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:17:44.004+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:17:44.004+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:17:44.004+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:17:44.019+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:17:44.057+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:17:44.056+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:17:44.061+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:17:44.061+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:17:44.067+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:19:08.378+0530] {processor.py:186} INFO - Started process (PID=44553) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:19:08.379+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:19:08.380+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:19:08.380+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:19:08.393+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:19:08.431+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:19:08.431+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:19:08.435+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:19:08.435+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:19:08.441+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T14:20:03.021+0530] {processor.py:186} INFO - Started process (PID=44728) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:20:03.022+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:20:03.023+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:20:03.023+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:20:03.039+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:20:03.093+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:20:03.093+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:20:03.097+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:20:03.097+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:20:03.151+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.131 seconds
+[2025-03-23T14:21:58.162+0530] {processor.py:186} INFO - Started process (PID=44995) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:21:58.163+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:21:58.164+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:21:58.164+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:21:58.179+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:21:58.219+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:21:58.219+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:21:58.223+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:21:58.223+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:21:58.230+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T14:22:06.084+0530] {processor.py:186} INFO - Started process (PID=45020) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:22:06.084+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:22:06.085+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:22:06.085+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:22:06.100+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:22:06.140+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:22:06.140+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:22:06.145+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:22:06.145+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:22:06.152+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T14:24:29.772+0530] {processor.py:186} INFO - Started process (PID=45393) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:24:29.773+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:24:29.773+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:24:29.773+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:24:29.787+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:24:29.826+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:24:29.825+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:24:29.830+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:24:29.830+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:24:29.836+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T14:24:30.978+0530] {processor.py:186} INFO - Started process (PID=45397) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:24:30.979+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:24:30.979+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:24:30.979+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:24:30.992+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:24:31.030+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:24:31.030+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:24:31.034+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:24:31.034+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:24:31.040+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T14:26:56.456+0530] {processor.py:186} INFO - Started process (PID=45762) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:26:56.456+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:26:56.457+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:26:56.457+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:26:56.471+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:26:56.509+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:26:56.509+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:26:56.513+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:26:56.513+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:26:56.518+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T14:27:01.892+0530] {processor.py:186} INFO - Started process (PID=45774) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:27:01.892+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:27:01.893+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:27:01.893+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:27:01.908+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:27:01.947+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:27:01.947+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:27:01.951+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:27:01.951+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:27:01.957+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.066 seconds
+[2025-03-23T14:29:22.476+0530] {processor.py:186} INFO - Started process (PID=46138) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:29:22.477+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:29:22.478+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:29:22.478+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:29:22.492+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:29:22.532+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:29:22.531+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:29:22.536+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:29:22.536+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:29:22.542+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-03-23T14:29:28.280+0530] {processor.py:186} INFO - Started process (PID=46151) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:29:28.280+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:29:28.281+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:29:28.281+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:29:28.296+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:29:28.337+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:29:28.337+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:29:28.341+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:29:28.341+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:29:28.349+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.071 seconds
+[2025-03-23T14:31:49.071+0530] {processor.py:186} INFO - Started process (PID=46368) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:31:49.072+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:31:49.072+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:31:49.072+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:31:49.086+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:31:49.123+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:31:49.122+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:31:49.126+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:31:49.126+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:31:49.132+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T14:34:15.555+0530] {processor.py:186} INFO - Started process (PID=46626) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:34:15.556+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:34:15.556+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:34:15.556+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:34:15.570+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:34:15.608+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:34:15.608+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:34:15.611+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:34:15.611+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:34:15.617+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T14:36:39.122+0530] {processor.py:186} INFO - Started process (PID=46803) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:36:39.122+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:36:39.123+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:36:39.123+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:36:39.136+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:36:39.173+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:36:39.173+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:36:39.177+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:36:39.176+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:36:39.182+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T14:38:55.793+0530] {processor.py:186} INFO - Started process (PID=46970) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:38:55.794+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:38:55.794+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:38:55.794+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:38:55.809+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:38:55.846+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:38:55.845+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:38:55.849+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:38:55.849+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:38:55.855+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T14:41:28.634+0530] {processor.py:186} INFO - Started process (PID=47167) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:41:28.635+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:41:28.635+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:41:28.635+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:41:28.648+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:41:28.685+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:41:28.685+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:41:28.689+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:41:28.688+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:41:28.694+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T14:43:56.801+0530] {processor.py:186} INFO - Started process (PID=47354) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:43:56.802+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:43:56.802+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:43:56.802+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:43:56.816+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:43:56.856+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:43:56.856+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:43:56.860+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:43:56.860+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:43:56.866+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-03-23T14:46:27.602+0530] {processor.py:186} INFO - Started process (PID=47586) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:46:27.604+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T14:46:27.604+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:46:27.604+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:46:27.618+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T14:46:27.655+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:46:27.655+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T14:46:27.659+0530] {logging_mixin.py:190} INFO - [2025-03-23T14:46:27.659+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T14:46:27.665+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T15:40:51.519+0530] {processor.py:186} INFO - Started process (PID=47936) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:40:51.519+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T15:40:51.520+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:40:51.520+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:40:51.533+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:40:51.569+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:40:51.569+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T15:40:51.573+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:40:51.573+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T15:40:51.580+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T15:43:21.700+0530] {processor.py:186} INFO - Started process (PID=48158) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:43:21.701+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T15:43:21.701+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:43:21.701+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:43:21.714+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:43:21.751+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:43:21.751+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T15:43:21.755+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:43:21.755+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T15:43:21.760+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T15:45:51.675+0530] {processor.py:186} INFO - Started process (PID=48387) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:45:51.676+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T15:45:51.676+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:45:51.676+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:45:51.691+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:45:51.728+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:45:51.728+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T15:45:51.732+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:45:51.732+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T15:45:51.738+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T15:48:20.973+0530] {processor.py:186} INFO - Started process (PID=48586) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:48:20.974+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T15:48:20.974+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:48:20.974+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:48:20.988+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T15:48:21.025+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:48:21.025+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T15:48:21.028+0530] {logging_mixin.py:190} INFO - [2025-03-23T15:48:21.028+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T15:48:21.034+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T17:32:59.636+0530] {processor.py:186} INFO - Started process (PID=49021) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:32:59.637+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T17:32:59.637+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:32:59.637+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:32:59.650+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:32:59.687+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:32:59.687+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T17:32:59.691+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:32:59.691+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T17:32:59.697+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T17:35:33.865+0530] {processor.py:186} INFO - Started process (PID=49228) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:35:33.866+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T17:35:33.866+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:35:33.866+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:35:33.880+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:35:33.919+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:35:33.918+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T17:35:33.922+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:35:33.922+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T17:35:33.928+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T17:38:18.423+0530] {processor.py:186} INFO - Started process (PID=49487) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:38:18.424+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T17:38:18.425+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:38:18.424+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:38:18.438+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:38:18.474+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:38:18.474+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T17:38:18.478+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:38:18.478+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T17:38:18.483+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T17:57:03.853+0530] {processor.py:186} INFO - Started process (PID=49733) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:57:03.853+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T17:57:03.854+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:57:03.854+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:57:03.868+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T17:57:03.908+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:57:03.908+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T17:57:03.913+0530] {logging_mixin.py:190} INFO - [2025-03-23T17:57:03.913+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T17:57:03.919+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T18:05:30.953+0530] {processor.py:186} INFO - Started process (PID=50562) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:05:30.954+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:05:30.954+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:05:30.954+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:05:30.968+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:05:31.010+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:05:31.010+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:05:31.015+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:05:31.015+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:05:31.024+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.072 seconds
+[2025-03-23T18:07:34.550+0530] {processor.py:186} INFO - Started process (PID=50787) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:07:34.550+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:07:34.551+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:07:34.551+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:07:34.565+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:07:34.603+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:07:34.602+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:07:34.607+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:07:34.606+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:07:34.612+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T18:08:59.212+0530] {processor.py:186} INFO - Started process (PID=51321) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:08:59.212+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:08:59.213+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:08:59.213+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:08:59.226+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:08:59.264+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:08:59.264+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:08:59.268+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:08:59.268+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:08:59.274+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T18:10:16.499+0530] {processor.py:186} INFO - Started process (PID=51511) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:10:16.500+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:10:16.501+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:10:16.501+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:10:16.517+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:10:16.562+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:10:16.562+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:10:16.567+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:10:16.566+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:10:16.574+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.076 seconds
+[2025-03-23T18:11:36.469+0530] {processor.py:186} INFO - Started process (PID=51715) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:11:36.470+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:11:36.471+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:11:36.471+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:11:36.485+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:11:36.525+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:11:36.525+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:11:36.529+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:11:36.529+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:11:36.535+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T18:12:49.322+0530] {processor.py:186} INFO - Started process (PID=52192) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:12:49.323+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:12:49.323+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:12:49.323+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:12:49.338+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:12:49.379+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:12:49.379+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:12:49.383+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:12:49.383+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:12:49.389+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T18:14:15.403+0530] {processor.py:186} INFO - Started process (PID=52384) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:14:15.404+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:14:15.405+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:14:15.405+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:14:15.423+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:14:15.472+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:14:15.471+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:14:15.477+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:14:15.477+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:14:15.485+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.084 seconds
+[2025-03-23T18:15:48.486+0530] {processor.py:186} INFO - Started process (PID=52592) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:15:48.487+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:15:48.488+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:15:48.488+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:15:48.504+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:15:48.551+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:15:48.551+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:15:48.556+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:15:48.555+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:15:48.563+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.079 seconds
+[2025-03-23T18:16:21.095+0530] {processor.py:186} INFO - Started process (PID=52672) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:16:21.096+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:16:21.097+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:16:21.097+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:16:21.112+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:16:21.154+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:16:21.154+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:16:21.158+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:16:21.158+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:16:21.165+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.071 seconds
+[2025-03-23T18:18:28.043+0530] {processor.py:186} INFO - Started process (PID=52985) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:18:28.045+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:18:28.045+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:18:28.045+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:18:28.059+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:18:28.100+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:18:28.100+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:18:28.104+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:18:28.104+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:18:28.110+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T18:18:55.058+0530] {processor.py:186} INFO - Started process (PID=53046) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:18:55.059+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:18:55.059+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:18:55.059+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:18:55.072+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:18:55.108+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:18:55.108+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:18:55.112+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:18:55.112+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:18:55.118+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.061 seconds
+[2025-03-23T18:21:06.981+0530] {processor.py:186} INFO - Started process (PID=53413) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:21:06.982+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:21:06.982+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:21:06.982+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:21:06.996+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:21:07.035+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:21:07.035+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:21:07.039+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:21:07.039+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:21:07.045+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.066 seconds
+[2025-03-23T18:21:34.741+0530] {processor.py:186} INFO - Started process (PID=53478) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:21:34.742+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:21:34.742+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:21:34.742+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:21:34.761+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:21:34.811+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:21:34.811+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:21:34.817+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:21:34.816+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:21:34.825+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.086 seconds
+[2025-03-23T18:23:38.156+0530] {processor.py:186} INFO - Started process (PID=53775) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:23:38.156+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:23:38.157+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:23:38.157+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:23:38.174+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:23:38.224+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:23:38.224+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:23:38.230+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:23:38.229+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:23:38.238+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.084 seconds
+[2025-03-23T18:24:18.330+0530] {processor.py:186} INFO - Started process (PID=53855) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:24:18.331+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:24:18.331+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:24:18.331+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:24:18.349+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:24:18.398+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:24:18.397+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:24:18.403+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:24:18.402+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:24:18.410+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.082 seconds
+[2025-03-23T18:26:21.429+0530] {processor.py:186} INFO - Started process (PID=54165) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:26:21.430+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:26:21.431+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:26:21.430+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:26:21.445+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:26:21.485+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:26:21.485+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:26:21.489+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:26:21.489+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:26:21.496+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T18:26:52.322+0530] {processor.py:186} INFO - Started process (PID=54234) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:26:52.323+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:26:52.323+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:26:52.323+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:26:52.337+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:26:52.375+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:26:52.375+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:26:52.379+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:26:52.379+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:26:52.386+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T18:28:55.361+0530] {processor.py:186} INFO - Started process (PID=54556) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:28:55.362+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:28:55.362+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:28:55.362+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:28:55.378+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:28:55.418+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:28:55.417+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:28:55.422+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:28:55.422+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:28:55.428+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T18:29:19.095+0530] {processor.py:186} INFO - Started process (PID=54611) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:29:19.096+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:29:19.096+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:29:19.096+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:29:19.112+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:29:19.158+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:29:19.157+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:29:19.163+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:29:19.163+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:29:19.171+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.076 seconds
+[2025-03-23T18:31:25.318+0530] {processor.py:186} INFO - Started process (PID=54917) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:31:25.319+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:31:25.319+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:31:25.319+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:31:25.333+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:31:25.370+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:31:25.370+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:31:25.374+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:31:25.374+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:31:25.379+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T18:31:47.253+0530] {processor.py:186} INFO - Started process (PID=54973) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:31:47.254+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:31:47.254+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:31:47.254+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:31:47.268+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:31:47.307+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:31:47.307+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:31:47.311+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:31:47.311+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:31:47.318+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.066 seconds
+[2025-03-23T18:34:00.505+0530] {processor.py:186} INFO - Started process (PID=55372) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:34:00.505+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:34:00.506+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:34:00.506+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:34:00.519+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:34:00.557+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:34:00.556+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:34:00.560+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:34:00.560+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:34:00.566+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T18:34:17.082+0530] {processor.py:186} INFO - Started process (PID=55415) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:34:17.083+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:34:17.084+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:34:17.084+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:34:17.099+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:34:17.140+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:34:17.140+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:34:17.145+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:34:17.144+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:34:17.151+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.071 seconds
+[2025-03-23T18:36:32.070+0530] {processor.py:186} INFO - Started process (PID=55767) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:36:32.070+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:36:32.071+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:36:32.071+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:36:32.084+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:36:32.121+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:36:32.121+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:36:32.124+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:36:32.124+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:36:32.130+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T18:36:52.052+0530] {processor.py:186} INFO - Started process (PID=55817) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:36:52.053+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:36:52.054+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:36:52.053+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:36:52.067+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:36:52.104+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:36:52.104+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:36:52.107+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:36:52.107+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:36:52.113+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T18:39:02.027+0530] {processor.py:186} INFO - Started process (PID=56272) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:39:02.028+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:39:02.028+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:39:02.028+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:39:02.045+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:39:02.087+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:39:02.087+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:39:02.092+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:39:02.092+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:39:02.098+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.073 seconds
+[2025-03-23T18:39:31.634+0530] {processor.py:186} INFO - Started process (PID=56355) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:39:31.635+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:39:31.636+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:39:31.636+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:39:31.650+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:39:31.692+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:39:31.692+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:39:31.696+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:39:31.696+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:39:31.705+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.072 seconds
+[2025-03-23T18:41:32.648+0530] {processor.py:186} INFO - Started process (PID=56712) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:41:32.649+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:41:32.650+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:41:32.650+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:41:32.663+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:41:32.701+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:41:32.700+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:41:32.705+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:41:32.704+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:41:32.711+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T18:42:05.334+0530] {processor.py:186} INFO - Started process (PID=56812) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:42:05.335+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:42:05.336+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:42:05.336+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:42:05.352+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:42:05.391+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:42:05.391+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:42:05.395+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:42:05.395+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:42:05.401+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T18:44:05.822+0530] {processor.py:186} INFO - Started process (PID=57483) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:44:05.823+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:44:05.824+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:44:05.823+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:44:05.839+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:44:05.880+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:44:05.880+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:44:05.884+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:44:05.884+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:44:05.891+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.070 seconds
+[2025-03-23T18:44:31.768+0530] {processor.py:186} INFO - Started process (PID=57560) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:44:31.769+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:44:31.770+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:44:31.770+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:44:31.783+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:44:31.821+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:44:31.821+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:44:31.825+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:44:31.825+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:44:31.831+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T18:46:41.671+0530] {processor.py:186} INFO - Started process (PID=57903) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:46:41.672+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:46:41.672+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:46:41.672+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:46:41.685+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:46:41.723+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:46:41.723+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:46:41.727+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:46:41.727+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:46:41.733+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T18:47:11.616+0530] {processor.py:186} INFO - Started process (PID=57971) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:47:11.617+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:47:11.617+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:47:11.617+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:47:11.630+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:47:11.667+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:47:11.667+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:47:11.671+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:47:11.671+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:47:11.677+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T18:49:11.072+0530] {processor.py:186} INFO - Started process (PID=58270) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:49:11.073+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:49:11.073+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:49:11.073+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:49:11.086+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:49:11.124+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:49:11.123+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:49:11.127+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:49:11.127+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:49:11.133+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.063 seconds
+[2025-03-23T18:49:48.707+0530] {processor.py:186} INFO - Started process (PID=58383) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:49:48.708+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:49:48.708+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:49:48.708+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:49:48.724+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:49:48.763+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:49:48.763+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:49:48.767+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:49:48.767+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:49:48.773+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-03-23T18:51:41.214+0530] {processor.py:186} INFO - Started process (PID=58663) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:51:41.215+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:51:41.216+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:51:41.215+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:51:41.231+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:51:41.271+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:51:41.271+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:51:41.275+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:51:41.275+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:51:41.283+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.070 seconds
+[2025-03-23T18:52:20.214+0530] {processor.py:186} INFO - Started process (PID=58781) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:52:20.215+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:52:20.215+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:52:20.215+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:52:20.229+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:52:20.267+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:52:20.267+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:52:20.271+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:52:20.270+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:52:20.277+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds
+[2025-03-23T18:54:12.652+0530] {processor.py:186} INFO - Started process (PID=59056) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:54:12.653+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:54:12.654+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:54:12.653+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:54:12.668+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:54:12.709+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:54:12.709+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:54:12.713+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:54:12.713+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:54:12.720+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T18:54:45.751+0530] {processor.py:186} INFO - Started process (PID=59135) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:54:45.752+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:54:45.753+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:54:45.752+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:54:45.766+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:54:45.805+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:54:45.804+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:54:45.809+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:54:45.808+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:54:45.815+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.065 seconds
+[2025-03-23T18:56:35.095+0530] {processor.py:186} INFO - Started process (PID=59398) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:56:35.096+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:56:35.096+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:56:35.096+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:56:35.109+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:56:35.149+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:56:35.149+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:56:35.154+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:56:35.154+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:56:35.161+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-03-23T18:57:12.212+0530] {processor.py:186} INFO - Started process (PID=59486) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:57:12.213+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:57:12.213+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:57:12.213+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:57:12.226+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:57:12.263+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:57:12.263+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:57:12.266+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:57:12.266+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:57:12.272+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.061 seconds
+[2025-03-23T18:58:56.273+0530] {processor.py:186} INFO - Started process (PID=59754) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:58:56.274+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:58:56.275+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:58:56.275+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:58:56.293+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:58:56.340+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:58:56.340+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:58:56.344+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:58:56.344+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:58:56.351+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.079 seconds
+[2025-03-23T18:59:38.328+0530] {processor.py:186} INFO - Started process (PID=59860) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:59:38.329+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T18:59:38.329+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:59:38.329+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:59:38.343+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T18:59:38.381+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:59:38.381+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T18:59:38.386+0530] {logging_mixin.py:190} INFO - [2025-03-23T18:59:38.386+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T18:59:38.393+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.066 seconds
+[2025-03-23T19:01:26.727+0530] {processor.py:186} INFO - Started process (PID=60117) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:01:26.728+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T19:01:26.728+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:01:26.728+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:01:26.741+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:01:26.777+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:01:26.777+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T19:01:26.781+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:01:26.781+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T19:01:26.787+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.061 seconds
+[2025-03-23T19:02:10.300+0530] {processor.py:186} INFO - Started process (PID=60220) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:02:10.301+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T19:02:10.302+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:02:10.302+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:02:10.315+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:02:10.352+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:02:10.352+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T19:02:10.356+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:02:10.356+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T19:02:10.362+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.062 seconds
+[2025-03-23T19:04:03.070+0530] {processor.py:186} INFO - Started process (PID=60524) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:04:03.071+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T19:04:03.072+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:04:03.072+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:04:03.086+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:04:03.126+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:04:03.126+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T19:04:03.130+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:04:03.130+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T19:04:03.137+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2025-03-23T19:04:47.253+0530] {processor.py:186} INFO - Started process (PID=60624) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:04:47.254+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T19:04:47.254+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:04:47.254+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:04:47.268+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:04:47.307+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:04:47.307+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T19:04:47.311+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:04:47.311+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T19:04:47.318+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.066 seconds
+[2025-03-23T19:06:35.464+0530] {processor.py:186} INFO - Started process (PID=60894) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:06:35.465+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T19:06:35.466+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:06:35.466+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:06:35.480+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:06:35.521+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:06:35.521+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T19:06:35.525+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:06:35.525+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T19:06:35.532+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-03-23T19:07:16.491+0530] {processor.py:186} INFO - Started process (PID=61001) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:07:16.492+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-23T19:07:16.492+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:07:16.492+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:07:16.507+0530] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-23T19:07:16.546+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:07:16.546+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-23T19:07:16.551+0530] {logging_mixin.py:190} INFO - [2025-03-23T19:07:16.551+0530] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-23T19:07:16.562+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.073 seconds

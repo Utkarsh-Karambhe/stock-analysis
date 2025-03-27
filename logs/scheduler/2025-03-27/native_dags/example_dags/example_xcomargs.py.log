@@ -1,0 +1,416 @@
+[2025-03-27T07:06:19.473+0530] {processor.py:186} INFO - Started process (PID=13126) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:06:19.474+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:06:19.474+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:19.474+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:06:19.489+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:06:19.527+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:19.527+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:06:19.531+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:19.531+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:06:19.532+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:19.532+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:06:19.537+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2025-03-27T07:07:52.535+0530] {processor.py:186} INFO - Started process (PID=13462) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:07:52.539+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:07:52.540+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:52.540+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:07:52.562+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:07:52.604+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:52.604+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:07:52.610+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:52.610+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:07:52.611+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:52.611+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:07:52.618+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.084 seconds
+[2025-03-27T07:09:11.348+0530] {processor.py:186} INFO - Started process (PID=13598) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:09:11.348+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:09:11.349+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:11.349+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:09:11.364+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:09:11.405+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:11.405+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:09:11.410+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:11.410+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:09:11.411+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:11.411+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:09:11.417+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.071 seconds
+[2025-03-27T07:10:44.655+0530] {processor.py:186} INFO - Started process (PID=13753) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:10:44.655+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:10:44.656+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:44.656+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:10:44.670+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:10:44.709+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:44.709+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:10:44.713+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:44.713+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:10:44.714+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:44.714+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:10:44.719+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:12:06.832+0530] {processor.py:186} INFO - Started process (PID=13902) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:12:06.832+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:12:06.833+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:06.833+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:12:06.847+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:12:06.885+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:06.885+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:12:06.889+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:06.889+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:12:06.890+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:06.890+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:12:06.896+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:13:20.400+0530] {processor.py:186} INFO - Started process (PID=14028) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:13:20.402+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:13:20.402+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:20.402+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:13:20.416+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:13:20.455+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:20.455+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:13:20.459+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:20.459+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:13:20.460+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:20.460+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:13:20.465+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:14:36.410+0530] {processor.py:186} INFO - Started process (PID=14164) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:14:36.410+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:14:36.411+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:36.411+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:14:36.425+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:14:36.465+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:36.465+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:14:36.469+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:36.469+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:14:36.470+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:36.470+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:14:36.475+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T07:15:54.613+0530] {processor.py:186} INFO - Started process (PID=14298) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:15:54.613+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:15:54.614+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:54.614+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:15:54.628+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:15:54.668+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:54.668+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:15:54.672+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:54.672+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:15:54.673+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:54.673+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:15:54.678+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T07:17:06.919+0530] {processor.py:186} INFO - Started process (PID=14414) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:17:06.920+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:17:06.920+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:06.920+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:17:06.936+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:17:06.978+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:06.977+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:17:06.982+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:06.982+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:17:06.985+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:06.985+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:17:06.991+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.073 seconds
+[2025-03-27T07:18:21.879+0530] {processor.py:186} INFO - Started process (PID=14544) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:18:21.881+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:18:21.881+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:21.881+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:18:21.896+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:18:21.934+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:21.934+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:18:21.938+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:21.938+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:18:21.939+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:21.939+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:18:21.945+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:19:31.996+0530] {processor.py:186} INFO - Started process (PID=14896) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:19:31.997+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:19:31.997+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:31.997+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:19:32.011+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:19:32.050+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:32.050+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:19:32.053+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:32.053+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:19:32.055+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:32.054+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:19:32.060+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2025-03-27T07:20:44.238+0530] {processor.py:186} INFO - Started process (PID=15064) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:20:44.239+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:20:44.240+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:44.240+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:20:44.254+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:20:44.292+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:44.292+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:20:44.296+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:44.296+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:20:44.297+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:44.297+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:20:44.302+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:21:58.640+0530] {processor.py:186} INFO - Started process (PID=15195) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:21:58.640+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:21:58.641+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:58.641+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:21:58.656+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:21:58.694+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:58.694+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:21:58.698+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:58.698+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:21:58.699+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:58.699+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:21:58.704+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2025-03-27T07:23:08.555+0530] {processor.py:186} INFO - Started process (PID=15329) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:23:08.556+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:23:08.556+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:08.556+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:23:08.570+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:23:08.608+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:08.608+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:23:08.612+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:08.612+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:23:08.613+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:08.613+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:23:08.618+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2025-03-27T07:24:18.177+0530] {processor.py:186} INFO - Started process (PID=15463) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:24:18.178+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:24:18.178+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:18.178+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:24:18.193+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:24:18.232+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:18.232+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:24:18.236+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:18.236+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:24:18.237+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:18.237+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:24:18.243+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T07:25:30.709+0530] {processor.py:186} INFO - Started process (PID=15596) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:25:30.709+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:25:30.710+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:30.710+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:25:30.730+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:25:30.768+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:30.768+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:25:30.772+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:30.772+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:25:30.773+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:30.773+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:25:30.778+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.071 seconds
+[2025-03-27T07:26:43.577+0530] {processor.py:186} INFO - Started process (PID=15714) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:26:43.578+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:26:43.580+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:43.580+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:26:43.602+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:26:43.661+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:43.661+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:26:43.666+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:43.666+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:26:43.667+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:43.667+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:26:43.673+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.098 seconds
+[2025-03-27T07:27:56.780+0530] {processor.py:186} INFO - Started process (PID=15829) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:27:56.781+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:27:56.782+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:56.782+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:27:56.798+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:27:56.838+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:56.838+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:27:56.842+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:56.842+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:27:56.843+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:56.843+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:27:56.849+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2025-03-27T07:29:10.924+0530] {processor.py:186} INFO - Started process (PID=15966) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:29:10.925+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:29:10.925+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:10.925+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:29:10.940+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:29:10.978+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:10.978+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:29:10.982+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:10.982+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:29:10.984+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:10.984+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:29:10.989+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:30:25.611+0530] {processor.py:186} INFO - Started process (PID=16119) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:30:25.612+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:30:25.612+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:25.612+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:30:25.627+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:30:25.666+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:25.666+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:30:25.669+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:25.669+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:30:25.671+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:25.670+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:30:25.676+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:31:40.680+0530] {processor.py:186} INFO - Started process (PID=16258) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:31:40.681+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:31:40.682+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:40.682+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:31:40.698+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:31:40.741+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:40.741+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:31:40.746+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:40.745+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:31:40.747+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:40.747+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:31:40.753+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.074 seconds
+[2025-03-27T07:32:55.503+0530] {processor.py:186} INFO - Started process (PID=16421) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:32:55.504+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:32:55.504+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:55.504+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:32:55.521+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:32:55.563+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:55.563+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:32:55.567+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:55.567+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:32:55.568+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:55.568+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:32:55.574+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.073 seconds
+[2025-03-27T07:34:10.933+0530] {processor.py:186} INFO - Started process (PID=16584) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:34:10.934+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:34:10.934+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:10.934+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:34:10.951+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:34:10.993+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:10.993+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:34:10.997+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:10.997+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:34:10.998+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:10.998+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:34:11.004+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.073 seconds
+[2025-03-27T07:35:28.986+0530] {processor.py:186} INFO - Started process (PID=16715) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:35:28.987+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:35:28.987+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:28.987+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:35:29.003+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:35:29.042+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:29.042+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:35:29.047+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:29.046+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:35:29.048+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:29.048+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:35:29.053+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.069 seconds
+[2025-03-27T07:36:39.600+0530] {processor.py:186} INFO - Started process (PID=16842) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:36:39.601+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:36:39.601+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:39.601+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:36:39.616+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:36:39.657+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:39.657+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:36:39.662+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:39.662+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:36:39.663+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:39.663+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:36:39.669+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2025-03-27T07:39:25.938+0530] {processor.py:186} INFO - Started process (PID=17056) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:39:25.939+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:39:25.940+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:25.940+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:39:25.954+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:39:26.022+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.022+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2025-03-27T07:39:26.025+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.025+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2025-03-27T07:39:26.027+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.027+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2025-03-27T07:39:26.030+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.030+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_xcom_args_with_operators
+[2025-03-27T07:39:26.032+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.032+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_xcom_args_with_operators
+[2025-03-27T07:39:26.034+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.034+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_xcom_args_with_operators
+[2025-03-27T07:39:26.036+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.036+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_xcom_args_with_operators
+[2025-03-27T07:39:26.040+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.040+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2025-03-27T07:39:26.042+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.042+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2025-03-27T07:39:26.044+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.044+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2025-03-27T07:39:26.047+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.047+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_xcom_args
+[2025-03-27T07:39:26.049+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.049+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_xcom_args
+[2025-03-27T07:39:26.051+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.051+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_xcom_args
+[2025-03-27T07:39:26.053+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.053+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_xcom_args
+[2025-03-27T07:39:26.053+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.053+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:39:26.057+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.057+0530] {dag.py:3262} INFO - Creating ORM DAG for example_xcom_args
+[2025-03-27T07:39:26.057+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.057+0530] {dag.py:3262} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2025-03-27T07:39:26.057+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.057+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:39:26.058+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:26.057+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:39:26.063+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.126 seconds
+[2025-03-27T07:41:13.448+0530] {processor.py:186} INFO - Started process (PID=17479) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:41:13.449+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:41:13.449+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:13.449+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:41:13.466+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:41:13.506+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:13.506+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:41:13.510+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:13.510+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:41:13.511+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:13.511+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:41:13.517+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2025-03-27T07:42:31.092+0530] {processor.py:186} INFO - Started process (PID=17645) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:42:31.093+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:42:31.094+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:31.093+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:42:31.108+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:42:31.146+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:31.146+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:42:31.150+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:31.149+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:42:31.151+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:31.151+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:42:31.158+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T07:43:45.821+0530] {processor.py:186} INFO - Started process (PID=17829) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:43:45.821+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:43:45.822+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:45.822+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:43:45.836+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:43:45.874+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:45.874+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:43:45.878+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:45.878+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:43:45.879+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:45.879+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:43:45.885+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2025-03-27T07:44:59.081+0530] {processor.py:186} INFO - Started process (PID=18047) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:44:59.083+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:44:59.083+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:59.083+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:44:59.097+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:44:59.136+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:59.135+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:44:59.139+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:59.139+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:44:59.140+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:59.140+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:44:59.146+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:46:10.020+0530] {processor.py:186} INFO - Started process (PID=18222) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:46:10.021+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:46:10.021+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:10.021+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:46:10.037+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:46:10.080+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:10.080+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:46:10.085+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:10.085+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:46:10.086+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:10.086+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:46:10.092+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.074 seconds
+[2025-03-27T07:47:57.702+0530] {processor.py:186} INFO - Started process (PID=18419) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:47:57.703+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:47:57.704+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:57.703+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:47:57.718+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:47:57.758+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:57.758+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:47:57.763+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:57.763+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:47:57.764+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:57.764+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:47:57.770+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2025-03-27T07:49:17.965+0530] {processor.py:186} INFO - Started process (PID=18566) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:49:17.966+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:49:17.967+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:17.966+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:49:17.981+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:49:18.019+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:18.019+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:49:18.023+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:18.023+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:49:18.024+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:18.024+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:49:18.030+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T07:50:35.768+0530] {processor.py:186} INFO - Started process (PID=19037) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:50:35.769+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:50:35.769+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:35.769+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:50:35.784+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:50:35.823+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:35.823+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:50:35.827+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:35.827+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:50:35.828+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:35.828+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:50:35.834+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T07:51:50.563+0530] {processor.py:186} INFO - Started process (PID=19163) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:51:50.564+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:51:50.564+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:50.564+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:51:50.579+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:51:50.617+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:50.617+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:51:50.621+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:50.621+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:51:50.622+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:50.622+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:51:50.628+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:52:42.355+0530] {processor.py:186} INFO - Started process (PID=19272) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:52:42.356+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:52:42.356+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:42.356+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:52:42.372+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:52:42.411+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:42.411+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:52:42.415+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:42.415+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:52:42.417+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:42.417+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:52:42.423+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.069 seconds
+[2025-03-27T07:53:19.834+0530] {processor.py:186} INFO - Started process (PID=19354) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:53:19.834+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:53:19.835+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:19.835+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:53:19.849+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:53:19.889+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:19.889+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:53:19.894+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:19.894+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:53:19.896+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:19.896+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:53:19.903+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.071 seconds
+[2025-03-27T07:54:33.549+0530] {processor.py:186} INFO - Started process (PID=19725) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:54:33.550+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:54:33.550+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:33.550+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:54:33.565+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:54:33.607+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:33.607+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:54:33.611+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:33.611+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:54:33.612+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:33.612+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:54:33.618+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2025-03-27T07:56:19.363+0530] {processor.py:186} INFO - Started process (PID=20431) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:56:19.364+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:56:19.365+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:19.365+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:56:19.380+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:56:19.420+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:19.420+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:56:19.424+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:19.424+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:56:19.425+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:19.425+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:56:19.432+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.069 seconds
+[2025-03-27T07:57:33.742+0530] {processor.py:186} INFO - Started process (PID=20580) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:57:33.743+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:57:33.743+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:33.743+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:57:33.759+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:57:33.797+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:33.797+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:57:33.801+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:33.801+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:57:33.802+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:33.802+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:57:33.807+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T07:58:53.355+0530] {processor.py:186} INFO - Started process (PID=20729) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:58:53.355+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T07:58:53.356+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:53.356+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:58:53.373+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T07:58:53.415+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:53.414+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T07:58:53.419+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:53.419+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T07:58:53.420+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:53.420+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T07:58:53.427+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.074 seconds
+[2025-03-27T08:00:10.009+0530] {processor.py:186} INFO - Started process (PID=20890) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:00:10.009+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:00:10.010+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:10.010+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:00:10.024+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:00:10.063+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:10.063+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:00:10.067+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:10.067+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:00:10.068+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:10.068+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:00:10.074+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T08:01:25.437+0530] {processor.py:186} INFO - Started process (PID=21018) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:01:25.437+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:01:25.438+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:25.438+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:01:25.453+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:01:25.492+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:25.492+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:01:25.496+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:25.496+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:01:25.497+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:25.497+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:01:25.502+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2025-03-27T08:02:42.040+0530] {processor.py:186} INFO - Started process (PID=21200) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:02:42.041+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:02:42.041+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:42.041+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:02:42.055+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:02:42.093+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:42.093+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:02:42.097+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:42.097+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:02:42.098+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:42.098+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:02:42.104+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2025-03-27T08:03:58.699+0530] {processor.py:186} INFO - Started process (PID=21336) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:03:58.700+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:03:58.700+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:58.700+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:03:58.715+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:03:58.756+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:58.756+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:03:58.760+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:58.760+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:03:58.761+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:58.761+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:03:58.767+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.069 seconds
+[2025-03-27T08:05:10.280+0530] {processor.py:186} INFO - Started process (PID=21455) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:05:10.281+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:05:10.281+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:10.281+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:05:10.296+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:05:10.335+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:10.334+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:05:10.338+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:10.338+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:05:10.339+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:10.339+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:05:10.345+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T08:06:27.086+0530] {processor.py:186} INFO - Started process (PID=21588) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:06:27.086+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:06:27.087+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:27.087+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:06:27.101+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:06:27.140+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:27.140+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:06:27.143+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:27.143+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:06:27.144+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:27.144+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:06:27.150+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2025-03-27T08:07:44.261+0530] {processor.py:186} INFO - Started process (PID=21767) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:07:44.261+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:07:44.262+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:44.262+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:07:44.276+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:07:44.317+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:44.317+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:07:44.322+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:44.322+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:07:44.323+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:44.323+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:07:44.330+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2025-03-27T08:09:08.184+0530] {processor.py:186} INFO - Started process (PID=21917) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:09:08.184+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:09:08.185+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:08.185+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:09:08.199+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:09:08.238+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:08.238+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:09:08.242+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:08.242+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:09:08.244+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:08.244+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:09:08.251+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.068 seconds
+[2025-03-27T08:10:23.631+0530] {processor.py:186} INFO - Started process (PID=22043) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:10:23.632+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-03-27T08:10:23.633+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:23.632+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:10:23.648+0530] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-03-27T08:10:23.689+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:23.689+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-27T08:10:23.693+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:23.693+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-03-27T08:10:23.694+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:23.694+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-03-27T08:10:23.700+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds

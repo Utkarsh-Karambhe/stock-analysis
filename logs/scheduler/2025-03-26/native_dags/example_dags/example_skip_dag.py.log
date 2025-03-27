@@ -1,0 +1,238 @@
+[2025-03-26T22:08:38.894+0530] {processor.py:186} INFO - Started process (PID=6267) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:08:38.895+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:08:38.895+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:38.895+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:08:38.899+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:08:38.944+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:38.944+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:08:38.953+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:38.953+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:08:38.960+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2025-03-26T22:10:22.634+0530] {processor.py:186} INFO - Started process (PID=6785) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:10:22.634+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:10:22.635+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:22.635+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:10:22.638+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:10:22.678+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:22.678+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:10:22.684+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:22.684+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:10:22.690+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:11:37.776+0530] {processor.py:186} INFO - Started process (PID=6911) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:11:37.777+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:11:37.778+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:37.778+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:11:37.782+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:11:37.824+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:37.824+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:11:37.832+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:37.832+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:11:37.839+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2025-03-26T22:13:05.433+0530] {processor.py:186} INFO - Started process (PID=7090) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:13:05.434+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:13:05.434+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:05.434+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:13:05.437+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:13:05.477+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:05.476+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:13:05.484+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:05.484+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:13:05.490+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:14:55.342+0530] {processor.py:186} INFO - Started process (PID=7599) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:14:55.344+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:14:55.344+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:55.344+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:14:55.347+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:14:55.388+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:55.388+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:14:55.395+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:55.395+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:14:55.402+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2025-03-26T22:16:16.885+0530] {processor.py:186} INFO - Started process (PID=7776) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:16:16.885+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:16:16.886+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:16.885+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:16:16.889+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:16:16.928+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:16.928+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:16:16.935+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:16.935+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:16:16.941+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:17:35.830+0530] {processor.py:186} INFO - Started process (PID=7922) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:17:35.831+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:17:35.831+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:35.831+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:17:35.834+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:17:35.877+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:35.877+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:17:35.885+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:35.885+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:17:35.892+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2025-03-26T22:18:53.773+0530] {processor.py:186} INFO - Started process (PID=8059) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:18:53.774+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:18:53.774+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:53.774+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:18:53.777+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:18:53.817+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:53.817+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:18:53.824+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:53.824+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:18:53.830+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:20:11.777+0530] {processor.py:186} INFO - Started process (PID=8192) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:20:11.778+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:20:11.779+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:11.779+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:20:11.782+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:20:11.824+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:11.824+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:20:11.832+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:11.832+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:20:11.839+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2025-03-26T22:21:28.130+0530] {processor.py:186} INFO - Started process (PID=8357) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:21:28.131+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:21:28.131+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:28.131+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:21:28.134+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:21:28.174+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:28.174+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:21:28.181+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:28.181+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:21:28.187+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2025-03-26T22:22:43.059+0530] {processor.py:186} INFO - Started process (PID=8494) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:22:43.059+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:22:43.060+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:43.060+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:22:43.063+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:22:43.105+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:43.105+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:22:43.115+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:43.115+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:22:43.121+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2025-03-26T22:23:57.890+0530] {processor.py:186} INFO - Started process (PID=8629) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:23:57.891+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:23:57.892+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:57.892+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:23:57.895+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:23:57.934+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:57.934+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:23:57.941+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:57.941+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:23:57.947+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2025-03-26T22:25:20.595+0530] {processor.py:186} INFO - Started process (PID=8770) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:25:20.596+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:25:20.597+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:20.597+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:25:20.600+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:25:20.644+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:20.644+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:25:20.653+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:20.653+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:25:20.660+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2025-03-26T22:26:38.414+0530] {processor.py:186} INFO - Started process (PID=8902) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:26:38.414+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:26:38.415+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:38.415+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:26:38.418+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:26:38.456+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:38.456+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:26:38.464+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:38.463+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:26:38.470+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-26T22:27:56.491+0530] {processor.py:186} INFO - Started process (PID=9043) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:27:56.492+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:27:56.493+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:56.493+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:27:56.496+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:27:56.551+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:56.551+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:27:56.562+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:56.562+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:27:56.573+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2025-03-26T22:29:20.043+0530] {processor.py:186} INFO - Started process (PID=9173) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:29:20.044+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:29:20.044+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:20.044+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:29:20.047+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:29:20.087+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:20.087+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:29:20.094+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:20.094+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:29:20.100+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:30:36.654+0530] {processor.py:186} INFO - Started process (PID=9314) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:30:36.655+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:30:36.655+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:36.655+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:30:36.658+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:30:36.697+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:36.697+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:30:36.704+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:36.704+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:30:36.710+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-26T22:31:47.445+0530] {processor.py:186} INFO - Started process (PID=9445) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:31:47.446+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:31:47.447+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:47.447+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:31:47.450+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:31:47.489+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:47.488+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:31:47.495+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:47.495+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:31:47.501+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-26T22:32:57.933+0530] {processor.py:186} INFO - Started process (PID=9559) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:32:57.934+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:32:57.934+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:57.934+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:32:57.937+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:32:57.977+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:57.976+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:32:57.984+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:57.984+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:32:57.991+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2025-03-26T22:34:12.177+0530] {processor.py:186} INFO - Started process (PID=9688) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:34:12.178+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:34:12.178+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:12.178+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:34:12.181+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:34:12.220+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:12.220+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:34:12.228+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:12.228+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:34:12.234+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:35:34.330+0530] {processor.py:186} INFO - Started process (PID=9885) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:35:34.330+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:35:34.331+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:34.330+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:35:34.333+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:35:34.374+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:34.373+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:35:34.381+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:34.380+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:35:34.387+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2025-03-26T22:36:53.170+0530] {processor.py:186} INFO - Started process (PID=10030) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:36:53.170+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:36:53.171+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:53.171+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:36:53.174+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:36:53.216+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:53.216+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:36:53.224+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:53.224+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:36:53.230+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2025-03-26T22:38:14.830+0530] {processor.py:186} INFO - Started process (PID=10173) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:38:14.830+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:38:14.831+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:14.831+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:38:14.834+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:38:14.877+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:14.877+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:38:14.884+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:14.884+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:38:14.891+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2025-03-26T22:39:31.079+0530] {processor.py:186} INFO - Started process (PID=10556) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:39:31.081+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:39:31.081+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:31.081+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:39:31.084+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:39:31.123+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:31.123+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:39:31.130+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:31.130+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:39:31.136+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:40:47.004+0530] {processor.py:186} INFO - Started process (PID=10740) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:40:47.005+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:40:47.005+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:47.005+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:40:47.009+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:40:47.084+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:47.084+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:40:47.097+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:47.097+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:40:47.107+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.105 seconds
+[2025-03-26T22:42:08.104+0530] {processor.py:186} INFO - Started process (PID=10935) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:42:08.104+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:42:08.105+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:08.105+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:42:08.108+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:42:08.153+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:08.152+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:42:08.164+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:08.164+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:42:08.177+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2025-03-26T22:43:28.616+0530] {processor.py:186} INFO - Started process (PID=11063) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:43:28.616+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:43:28.617+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:28.617+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:43:28.620+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:43:28.659+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:28.659+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:43:28.666+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:28.666+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:43:28.672+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-26T22:44:42.990+0530] {processor.py:186} INFO - Started process (PID=11174) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:44:42.991+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:44:42.991+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:42.991+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:44:42.994+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:44:43.032+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:43.032+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:44:43.039+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:43.039+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:44:43.045+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-26T22:45:57.870+0530] {processor.py:186} INFO - Started process (PID=11295) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:45:57.871+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:45:57.872+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:57.872+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:45:57.875+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:45:57.915+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:57.914+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:45:57.921+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:57.921+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:45:57.927+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-26T22:47:15.015+0530] {processor.py:186} INFO - Started process (PID=11434) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:47:15.016+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:47:15.017+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:15.017+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:47:15.020+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:47:15.064+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:15.064+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:47:15.072+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:15.072+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:47:15.079+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2025-03-26T22:48:28.584+0530] {processor.py:186} INFO - Started process (PID=11574) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:48:28.585+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:48:28.585+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:28.585+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:48:28.588+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:48:28.629+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:28.629+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:48:28.637+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:28.637+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:48:28.643+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2025-03-26T22:49:41.249+0530] {processor.py:186} INFO - Started process (PID=11931) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:49:41.250+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:49:41.250+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:41.250+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:49:41.255+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:49:41.305+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:41.305+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:49:41.314+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:41.314+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:49:41.323+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2025-03-26T22:50:58.612+0530] {processor.py:186} INFO - Started process (PID=12181) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:50:58.613+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-26T22:50:58.614+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:58.613+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:50:58.617+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-26T22:50:58.659+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:58.658+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:50:58.666+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:58.666+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-26T22:50:58.672+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2025-03-27T02:16:59.970+0530] {processor.py:186} INFO - Started process (PID=12569) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-27T02:16:59.971+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-27T02:16:59.972+0530] {logging_mixin.py:190} INFO - [2025-03-27T02:16:59.972+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-27T02:16:59.975+0530] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-27T02:17:00.015+0530] {logging_mixin.py:190} INFO - [2025-03-27T02:17:00.014+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T02:17:00.021+0530] {logging_mixin.py:190} INFO - [2025-03-27T02:17:00.021+0530] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-25 00:00:00+00:00, run_after=2025-03-26 00:00:00+00:00
+[2025-03-27T02:17:00.027+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds

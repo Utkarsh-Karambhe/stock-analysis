@@ -1,0 +1,255 @@
+[2025-03-27T07:06:00.507+0530] {processor.py:186} INFO - Started process (PID=13087) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:06:00.507+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:06:00.508+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:00.508+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:06:00.761+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:06:00.798+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.292 seconds
+[2025-03-27T07:07:31.664+0530] {processor.py:186} INFO - Started process (PID=13402) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:07:31.664+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:07:31.665+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:31.665+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:07:31.892+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:07:31.931+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.269 seconds
+[2025-03-27T07:08:54.955+0530] {processor.py:186} INFO - Started process (PID=13567) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:08:54.956+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:08:54.957+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:54.957+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:08:55.184+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:08:55.222+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.267 seconds
+[2025-03-27T07:10:23.736+0530] {processor.py:186} INFO - Started process (PID=13721) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:10:23.737+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:10:23.737+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:23.737+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:10:23.929+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:10:23.968+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds
+[2025-03-27T07:11:47.807+0530] {processor.py:186} INFO - Started process (PID=13873) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:11:47.808+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:11:47.808+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:47.808+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:11:48.000+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:11:48.038+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.232 seconds
+[2025-03-27T07:13:03.533+0530] {processor.py:186} INFO - Started process (PID=13997) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:13:03.533+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:13:03.534+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:03.534+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:13:03.728+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:13:03.767+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.235 seconds
+[2025-03-27T07:14:19.035+0530] {processor.py:186} INFO - Started process (PID=14136) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:14:19.036+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:14:19.036+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:19.036+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:14:19.228+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:14:19.264+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.230 seconds
+[2025-03-27T07:15:36.731+0530] {processor.py:186} INFO - Started process (PID=14269) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:15:36.732+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:15:36.732+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:36.732+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:15:36.930+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:15:36.967+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.237 seconds
+[2025-03-27T07:16:49.416+0530] {processor.py:186} INFO - Started process (PID=14382) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:16:49.417+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:16:49.417+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:49.417+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:16:49.609+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:16:49.646+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.231 seconds
+[2025-03-27T07:18:03.831+0530] {processor.py:186} INFO - Started process (PID=14508) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:18:03.832+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:18:03.832+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:03.832+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:18:04.048+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:18:04.091+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.261 seconds
+[2025-03-27T07:19:14.433+0530] {processor.py:186} INFO - Started process (PID=14867) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:19:14.434+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:19:14.434+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:14.434+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:19:14.624+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:19:14.661+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.230 seconds
+[2025-03-27T07:20:29.020+0530] {processor.py:186} INFO - Started process (PID=15037) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:20:29.020+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:20:29.021+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:29.021+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:20:29.227+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:20:29.264+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.245 seconds
+[2025-03-27T07:21:40.738+0530] {processor.py:186} INFO - Started process (PID=15152) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:21:40.739+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:21:40.739+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:40.739+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:21:40.939+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:21:40.976+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.239 seconds
+[2025-03-27T07:22:52.932+0530] {processor.py:186} INFO - Started process (PID=15293) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:22:52.933+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:22:52.933+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:52.933+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:22:53.129+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:22:53.167+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.236 seconds
+[2025-03-27T07:24:02.347+0530] {processor.py:186} INFO - Started process (PID=15431) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:24:02.348+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:24:02.348+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:02.348+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:24:02.542+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:24:02.579+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds
+[2025-03-27T07:25:14.004+0530] {processor.py:186} INFO - Started process (PID=15572) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:25:14.005+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:25:14.006+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:14.006+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:25:14.204+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:25:14.241+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.238 seconds
+[2025-03-27T07:26:26.220+0530] {processor.py:186} INFO - Started process (PID=15687) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:26:26.221+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:26:26.221+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:26.221+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:26:26.410+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:26:26.447+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.228 seconds
+[2025-03-27T07:27:39.127+0530] {processor.py:186} INFO - Started process (PID=15800) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:27:39.129+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:27:39.129+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:39.129+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:27:39.322+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:27:39.359+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds
+[2025-03-27T07:28:52.952+0530] {processor.py:186} INFO - Started process (PID=15942) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:28:52.953+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:28:52.954+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:52.954+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:28:53.143+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:28:53.181+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.230 seconds
+[2025-03-27T07:30:08.156+0530] {processor.py:186} INFO - Started process (PID=16070) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:30:08.157+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:30:08.158+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:08.158+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:30:08.400+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:30:08.438+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.283 seconds
+[2025-03-27T07:31:23.739+0530] {processor.py:186} INFO - Started process (PID=16230) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:31:23.740+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:31:23.741+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:23.740+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:31:23.932+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:31:23.969+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.231 seconds
+[2025-03-27T07:32:39.335+0530] {processor.py:186} INFO - Started process (PID=16387) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:32:39.336+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:32:39.336+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:39.336+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:32:39.528+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:32:39.565+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.231 seconds
+[2025-03-27T07:33:52.753+0530] {processor.py:186} INFO - Started process (PID=16545) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:33:52.755+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:33:52.755+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:52.755+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:33:52.958+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:33:52.996+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.244 seconds
+[2025-03-27T07:35:10.252+0530] {processor.py:186} INFO - Started process (PID=16677) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:35:10.252+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:35:10.253+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:10.253+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:35:10.452+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:35:10.493+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.242 seconds
+[2025-03-27T07:36:22.048+0530] {processor.py:186} INFO - Started process (PID=16817) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:36:22.049+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:36:22.050+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:22.049+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:36:22.243+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:36:22.280+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds
+[2025-03-27T07:39:07.792+0530] {processor.py:186} INFO - Started process (PID=17019) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:39:07.792+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:39:07.793+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:07.793+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:39:07.984+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:39:08.023+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds
+[2025-03-27T07:40:55.190+0530] {processor.py:186} INFO - Started process (PID=17442) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:40:55.191+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:40:55.191+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:55.191+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:40:55.481+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:40:55.525+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.336 seconds
+[2025-03-27T07:42:12.331+0530] {processor.py:186} INFO - Started process (PID=17596) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:42:12.332+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:42:12.333+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:12.333+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:42:12.536+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:42:12.574+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.244 seconds
+[2025-03-27T07:43:28.642+0530] {processor.py:186} INFO - Started process (PID=17783) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:43:28.643+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:43:28.643+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:28.643+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:43:28.837+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:43:28.874+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds
+[2025-03-27T07:44:41.417+0530] {processor.py:186} INFO - Started process (PID=18005) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:44:41.417+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:44:41.418+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:41.418+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:44:41.616+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:44:41.655+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.239 seconds
+[2025-03-27T07:45:52.430+0530] {processor.py:186} INFO - Started process (PID=18188) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:45:52.431+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:45:52.431+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:52.431+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:45:52.623+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:45:52.661+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.232 seconds
+[2025-03-27T07:47:41.808+0530] {processor.py:186} INFO - Started process (PID=18392) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:47:41.809+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:47:41.809+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:41.809+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:47:42.017+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:47:42.054+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.247 seconds
+[2025-03-27T07:49:00.555+0530] {processor.py:186} INFO - Started process (PID=18534) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:49:00.556+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:49:00.556+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:00.556+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:49:00.751+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:49:00.788+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.234 seconds
+[2025-03-27T07:50:18.385+0530] {processor.py:186} INFO - Started process (PID=18671) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:50:18.386+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:50:18.386+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:18.386+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:50:18.582+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:50:18.619+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.235 seconds
+[2025-03-27T07:51:32.776+0530] {processor.py:186} INFO - Started process (PID=19139) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:51:32.776+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:51:32.777+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:32.777+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:51:32.970+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:51:33.008+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.234 seconds
+[2025-03-27T07:52:24.873+0530] {processor.py:186} INFO - Started process (PID=19241) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:52:24.873+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:52:24.874+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:24.874+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:52:25.064+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:52:25.103+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.231 seconds
+[2025-03-27T07:53:02.340+0530] {processor.py:186} INFO - Started process (PID=19328) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:53:02.341+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:53:02.341+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:02.341+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:53:02.536+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:53:02.575+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.236 seconds
+[2025-03-27T07:54:15.554+0530] {processor.py:186} INFO - Started process (PID=19686) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:54:15.554+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:54:15.555+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:15.555+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:54:15.749+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:54:15.788+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.235 seconds
+[2025-03-27T07:56:02.355+0530] {processor.py:186} INFO - Started process (PID=20397) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:56:02.356+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:56:02.357+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:02.357+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:56:02.562+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:56:02.599+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.245 seconds
+[2025-03-27T07:57:15.772+0530] {processor.py:186} INFO - Started process (PID=20551) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:57:15.772+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:57:15.773+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:15.773+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:57:15.968+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:57:16.007+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.236 seconds
+[2025-03-27T07:58:35.829+0530] {processor.py:186} INFO - Started process (PID=20699) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:58:35.829+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:58:35.830+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:35.830+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:58:36.020+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:58:36.057+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.230 seconds
+[2025-03-27T07:59:52.097+0530] {processor.py:186} INFO - Started process (PID=20864) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:59:52.097+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T07:59:52.098+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:59:52.098+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:59:52.294+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T07:59:52.333+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.238 seconds
+[2025-03-27T08:01:06.975+0530] {processor.py:186} INFO - Started process (PID=20982) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:01:06.976+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:01:06.976+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:06.976+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:01:07.165+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:01:07.203+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.229 seconds
+[2025-03-27T08:02:23.499+0530] {processor.py:186} INFO - Started process (PID=21156) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:02:23.500+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:02:23.501+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:23.501+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:02:23.704+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:02:23.742+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.244 seconds
+[2025-03-27T08:03:40.217+0530] {processor.py:186} INFO - Started process (PID=21302) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:03:40.217+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:03:40.218+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:40.218+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:03:40.413+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:03:40.451+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.236 seconds
+[2025-03-27T08:04:54.832+0530] {processor.py:186} INFO - Started process (PID=21432) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:04:54.832+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:04:54.833+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:54.832+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:04:55.022+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:04:55.060+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.229 seconds
+[2025-03-27T08:06:09.192+0530] {processor.py:186} INFO - Started process (PID=21559) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:06:09.192+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:06:09.193+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:09.193+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:06:09.384+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:06:09.421+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.231 seconds
+[2025-03-27T08:07:25.197+0530] {processor.py:186} INFO - Started process (PID=21730) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:07:25.197+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:07:25.198+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:25.198+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:07:25.418+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:07:25.460+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.266 seconds
+[2025-03-27T08:08:49.151+0530] {processor.py:186} INFO - Started process (PID=21888) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:08:49.152+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:08:49.152+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:49.152+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:08:49.363+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:08:49.400+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.250 seconds
+[2025-03-27T08:10:06.976+0530] {processor.py:186} INFO - Started process (PID=22014) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:10:06.976+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:10:06.977+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:06.977+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:10:07.164+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:10:07.201+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.227 seconds
+[2025-03-27T08:11:22.370+0530] {processor.py:186} INFO - Started process (PID=22167) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:11:22.370+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-27T08:11:22.371+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:22.371+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:11:22.564+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-27T08:11:22.602+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.233 seconds

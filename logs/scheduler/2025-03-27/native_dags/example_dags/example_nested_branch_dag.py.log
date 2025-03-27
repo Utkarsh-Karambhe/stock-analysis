@@ -1,0 +1,183 @@
+[2025-03-27T07:07:09.433+0530] {processor.py:186} INFO - Started process (PID=13355) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:07:09.434+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:07:09.435+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:09.434+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:07:09.456+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:07:09.500+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:09.500+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:07:09.507+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:09.507+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:07:09.514+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.082 seconds
+[2025-03-27T07:09:53.388+0530] {processor.py:186} INFO - Started process (PID=13661) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:09:53.388+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:09:53.389+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:53.389+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:09:53.408+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:09:53.450+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:53.450+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:09:53.457+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:53.457+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:09:53.464+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2025-03-27T07:12:40.865+0530] {processor.py:186} INFO - Started process (PID=13953) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:12:40.866+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:12:40.866+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:40.866+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:12:40.882+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:12:40.921+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:40.921+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:12:40.928+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:40.928+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:12:40.934+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.071 seconds
+[2025-03-27T07:15:15.826+0530] {processor.py:186} INFO - Started process (PID=14228) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:15:15.826+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:15:15.827+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:15.827+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:15:15.841+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:15:15.881+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:15.880+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:15:15.888+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:15.888+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:15:15.894+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-03-27T07:17:42.032+0530] {processor.py:186} INFO - Started process (PID=14472) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:17:42.033+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:17:42.034+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:42.034+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:17:42.051+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:17:42.092+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:42.092+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:17:42.099+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:42.099+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:17:42.106+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2025-03-27T07:20:07.738+0530] {processor.py:186} INFO - Started process (PID=14985) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:20:07.738+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:20:07.739+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:07.739+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:20:07.754+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:20:07.792+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:07.792+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:20:07.799+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:07.799+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:20:07.805+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-03-27T07:22:30.840+0530] {processor.py:186} INFO - Started process (PID=15255) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:22:30.841+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:22:30.841+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:30.841+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:22:30.856+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:22:30.895+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:30.894+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:22:30.901+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:30.901+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:22:30.907+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-03-27T07:24:52.549+0530] {processor.py:186} INFO - Started process (PID=15535) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:24:52.550+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:24:52.550+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:52.550+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:24:52.565+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:24:52.604+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:52.604+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:24:52.611+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:52.611+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:24:52.617+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-03-27T07:27:17.353+0530] {processor.py:186} INFO - Started process (PID=15766) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:27:17.354+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:27:17.354+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:17.354+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:27:17.371+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:27:17.411+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:17.411+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:27:17.418+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:17.418+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:27:17.424+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.073 seconds
+[2025-03-27T07:29:45.327+0530] {processor.py:186} INFO - Started process (PID=16032) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:29:45.329+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:29:45.329+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:45.329+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:29:45.346+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:29:45.388+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:45.388+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:29:45.395+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:45.395+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:29:45.402+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2025-03-27T07:32:18.937+0530] {processor.py:186} INFO - Started process (PID=16349) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:32:18.937+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:32:18.938+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:18.938+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:32:18.953+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:32:18.992+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:18.992+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:32:18.999+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:18.999+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:32:19.005+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-03-27T07:34:48.090+0530] {processor.py:186} INFO - Started process (PID=16642) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:34:48.090+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:34:48.091+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:48.090+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:34:48.105+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:34:48.144+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:48.144+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:34:48.151+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:48.151+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:34:48.158+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-03-27T07:40:08.407+0530] {processor.py:186} INFO - Started process (PID=17360) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:40:08.408+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:40:08.409+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.409+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:40:08.425+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:40:08.494+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.494+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2025-03-27T07:40:08.497+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.497+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2025-03-27T07:40:08.499+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.499+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2025-03-27T07:40:08.502+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.502+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_nested_branch_dag
+[2025-03-27T07:40:08.504+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.504+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_nested_branch_dag
+[2025-03-27T07:40:08.506+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.506+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_nested_branch_dag
+[2025-03-27T07:40:08.508+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.508+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_nested_branch_dag
+[2025-03-27T07:40:08.508+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.508+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:40:08.513+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.513+0530] {dag.py:3262} INFO - Creating ORM DAG for example_nested_branch_dag
+[2025-03-27T07:40:08.516+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:08.516+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:40:08.522+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.116 seconds
+[2025-03-27T07:41:55.198+0530] {processor.py:186} INFO - Started process (PID=17560) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:41:55.198+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:41:55.199+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:55.199+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:41:55.214+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:41:55.254+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:55.254+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:41:55.262+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:55.262+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:41:55.269+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.072 seconds
+[2025-03-27T07:44:25.738+0530] {processor.py:186} INFO - Started process (PID=17978) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:44:25.739+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:44:25.739+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:25.739+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:44:25.756+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:44:25.795+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:25.794+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:44:25.801+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:25.801+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:44:25.808+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.071 seconds
+[2025-03-27T07:46:54.735+0530] {processor.py:186} INFO - Started process (PID=18313) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:46:54.736+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:46:54.736+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:54.736+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:46:54.751+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:46:54.790+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:54.790+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:46:54.797+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:54.797+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:46:54.804+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-03-27T07:48:43.409+0530] {processor.py:186} INFO - Started process (PID=18502) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:48:43.411+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:48:43.411+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:43.411+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:48:43.430+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:48:43.469+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:43.469+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:48:43.476+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:43.476+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:48:43.483+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2025-03-27T07:51:15.658+0530] {processor.py:186} INFO - Started process (PID=19109) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:51:15.659+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:51:15.659+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:15.659+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:51:15.674+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:51:15.714+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:15.714+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:51:15.722+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:15.722+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:51:15.728+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.071 seconds
+[2025-03-27T07:55:17.361+0530] {processor.py:186} INFO - Started process (PID=20288) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:55:17.362+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:55:17.362+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:17.362+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:55:17.377+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:55:17.415+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:17.414+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:55:17.421+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:17.421+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:55:17.427+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds
+[2025-03-27T07:57:02.276+0530] {processor.py:186} INFO - Started process (PID=20527) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:57:02.276+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:57:02.277+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:02.277+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:57:02.295+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:57:02.337+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:02.337+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:57:02.345+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:02.345+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:57:02.352+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2025-03-27T07:59:36.710+0530] {processor.py:186} INFO - Started process (PID=20833) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:59:36.711+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T07:59:36.712+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:59:36.711+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:59:36.728+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T07:59:36.769+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:59:36.768+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:59:36.775+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:59:36.775+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:59:36.782+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.073 seconds
+[2025-03-27T08:02:08.030+0530] {processor.py:186} INFO - Started process (PID=21122) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:02:08.031+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T08:02:08.032+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:08.031+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:02:08.047+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:02:08.090+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:08.090+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:02:08.097+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:08.097+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:02:08.104+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2025-03-27T08:04:37.868+0530] {processor.py:186} INFO - Started process (PID=21403) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:04:37.869+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T08:04:37.869+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:37.869+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:04:37.884+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:04:37.922+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:37.922+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:04:37.929+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:37.928+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:04:37.936+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-03-27T08:07:07.128+0530] {processor.py:186} INFO - Started process (PID=21654) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:07:07.129+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T08:07:07.129+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:07.129+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:07:07.145+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:07:07.185+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:07.185+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:07:07.191+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:07.191+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:07:07.198+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.071 seconds
+[2025-03-27T08:09:48.717+0530] {processor.py:186} INFO - Started process (PID=21981) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:09:48.718+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-27T08:09:48.719+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:48.719+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:09:48.733+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-27T08:09:48.771+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:48.771+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:09:48.777+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:48.777+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:09:48.783+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds

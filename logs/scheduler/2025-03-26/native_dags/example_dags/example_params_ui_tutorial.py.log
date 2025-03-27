@@ -1,0 +1,126 @@
+[2025-03-26T22:08:56.640+0530] {processor.py:186} INFO - Started process (PID=6627) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:08:56.640+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:08:56.641+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:56.640+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:08:56.656+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:08:56.737+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:56.737+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:08:56.740+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:56.740+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:08:56.747+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.109 seconds
+[2025-03-26T22:10:41.671+0530] {processor.py:186} INFO - Started process (PID=6815) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:10:41.672+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:10:41.672+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:41.672+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:10:41.687+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:10:41.735+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:41.735+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:10:41.739+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:41.739+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:10:41.745+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.075 seconds
+[2025-03-26T22:13:25.501+0530] {processor.py:186} INFO - Started process (PID=7126) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:13:25.502+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:13:25.502+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:25.502+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:13:25.516+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:13:25.568+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:25.568+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:13:25.572+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:25.572+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:13:25.579+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.079 seconds
+[2025-03-26T22:15:21.686+0530] {processor.py:186} INFO - Started process (PID=7659) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:15:21.686+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:15:21.687+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:21.686+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:15:21.700+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:15:21.749+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:21.748+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:15:21.753+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:21.753+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:15:21.759+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.075 seconds
+[2025-03-26T22:17:54.923+0530] {processor.py:186} INFO - Started process (PID=7949) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:17:54.923+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:17:54.924+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:54.924+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:17:54.939+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:17:54.987+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:54.987+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:17:54.991+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:54.991+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:17:54.997+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.076 seconds
+[2025-03-26T22:20:28.419+0530] {processor.py:186} INFO - Started process (PID=8225) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:20:28.420+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:20:28.420+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:28.420+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:20:28.434+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:20:28.482+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:28.482+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:20:28.486+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:28.486+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:20:28.495+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.077 seconds
+[2025-03-26T22:22:58.940+0530] {processor.py:186} INFO - Started process (PID=8519) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:22:58.940+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:22:58.941+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:58.941+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:22:58.956+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:22:59.004+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:59.004+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:22:59.008+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:59.008+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:22:59.014+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.076 seconds
+[2025-03-26T22:25:37.518+0530] {processor.py:186} INFO - Started process (PID=8806) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:25:37.519+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:25:37.519+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:37.519+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:25:37.535+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:25:37.583+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:37.583+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:25:37.587+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:37.587+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:25:37.594+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.077 seconds
+[2025-03-26T22:28:12.698+0530] {processor.py:186} INFO - Started process (PID=9071) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:28:12.699+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:28:12.700+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:12.700+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:28:12.715+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:28:12.763+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:12.763+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:28:12.767+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:12.767+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:28:12.773+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.076 seconds
+[2025-03-26T22:30:51.757+0530] {processor.py:186} INFO - Started process (PID=9341) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:30:51.758+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:30:51.758+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:51.758+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:30:51.772+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:30:51.821+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:51.821+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:30:51.825+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:51.825+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:30:51.831+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.076 seconds
+[2025-03-26T22:33:13.656+0530] {processor.py:186} INFO - Started process (PID=9593) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:33:13.656+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:33:13.657+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:13.657+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:33:13.672+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:33:13.732+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:13.731+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:33:13.736+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:13.736+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:33:13.743+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.088 seconds
+[2025-03-26T22:35:50.751+0530] {processor.py:186} INFO - Started process (PID=9909) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:35:50.752+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:35:50.752+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:50.752+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:35:50.770+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:35:50.826+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:50.826+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:35:50.830+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:50.830+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:35:50.837+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.088 seconds
+[2025-03-26T22:38:32.700+0530] {processor.py:186} INFO - Started process (PID=10200) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:38:32.701+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:38:32.701+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:32.701+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:38:32.716+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:38:32.764+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:32.764+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:38:32.768+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:32.768+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:38:32.774+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.075 seconds
+[2025-03-26T22:41:05.005+0530] {processor.py:186} INFO - Started process (PID=10771) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:41:05.006+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:41:05.006+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:05.006+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:41:05.020+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:41:05.068+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:05.068+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:41:05.072+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:05.072+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:41:05.079+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.075 seconds
+[2025-03-26T22:43:43.321+0530] {processor.py:186} INFO - Started process (PID=11084) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:43:43.322+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:43:43.322+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:43.322+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:43:43.337+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:43:43.384+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:43.384+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:43:43.388+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:43.388+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:43:43.394+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.074 seconds
+[2025-03-26T22:46:15.582+0530] {processor.py:186} INFO - Started process (PID=11336) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:46:15.582+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:46:15.583+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:15.583+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:46:15.597+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:46:15.644+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:15.644+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:46:15.648+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:15.648+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:46:15.654+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.073 seconds
+[2025-03-26T22:48:41.650+0530] {processor.py:186} INFO - Started process (PID=11593) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:48:41.650+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:48:41.651+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:41.651+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:48:41.666+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:48:41.718+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:41.718+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:48:41.723+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:41.723+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:48:41.730+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.081 seconds
+[2025-03-26T22:51:14.380+0530] {processor.py:186} INFO - Started process (PID=12210) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:51:14.381+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-26T22:51:14.381+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:14.381+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:51:14.395+0530] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-26T22:51:14.443+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:14.443+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:51:14.447+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:14.447+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-26T22:51:14.453+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.075 seconds

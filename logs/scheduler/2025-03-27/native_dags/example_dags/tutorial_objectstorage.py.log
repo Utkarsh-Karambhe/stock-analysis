@@ -1,0 +1,358 @@
+[2025-03-27T07:06:13.710+0530] {processor.py:186} INFO - Started process (PID=13117) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:06:13.711+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:06:13.711+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:13.711+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:06:13.727+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:06:13.767+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:13.767+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:06:13.771+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:13.771+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:06:13.778+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.069 seconds
+[2025-03-27T07:07:46.519+0530] {processor.py:186} INFO - Started process (PID=13450) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:07:46.520+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:07:46.520+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:46.520+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:07:46.550+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:07:46.594+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:46.594+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:07:46.600+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:46.600+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:07:46.608+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.091 seconds
+[2025-03-27T07:09:06.058+0530] {processor.py:186} INFO - Started process (PID=13586) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:09:06.058+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:09:06.059+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:06.058+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:09:06.072+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:09:06.109+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:06.109+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:09:06.113+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:06.113+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:09:06.119+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:10:36.264+0530] {processor.py:186} INFO - Started process (PID=13740) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:10:36.265+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:10:36.265+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:36.265+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:10:36.279+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:10:36.317+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:36.316+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:10:36.321+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:36.321+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:10:36.327+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T07:12:01.048+0530] {processor.py:186} INFO - Started process (PID=13896) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:12:01.050+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:12:01.050+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:01.050+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:12:01.065+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:12:01.107+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:01.107+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:12:01.111+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:01.111+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:12:01.118+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.071 seconds
+[2025-03-27T07:13:15.666+0530] {processor.py:186} INFO - Started process (PID=14022) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:13:15.667+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:13:15.667+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:15.667+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:13:15.682+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:13:15.721+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:15.721+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:13:15.725+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:15.725+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:13:15.732+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.067 seconds
+[2025-03-27T07:14:30.713+0530] {processor.py:186} INFO - Started process (PID=14154) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:14:30.714+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:14:30.714+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:30.714+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:14:30.730+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:14:30.770+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:30.770+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:14:30.774+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:30.774+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:14:30.780+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.068 seconds
+[2025-03-27T07:15:49.185+0530] {processor.py:186} INFO - Started process (PID=14286) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:15:49.186+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:15:49.186+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:49.186+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:15:49.200+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:15:49.237+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:49.237+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:15:49.240+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:49.240+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:15:49.247+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:17:01.112+0530] {processor.py:186} INFO - Started process (PID=14408) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:17:01.112+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:17:01.113+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:01.112+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:17:01.127+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:17:01.164+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:01.164+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:17:01.168+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:01.167+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:17:01.174+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T07:18:16.771+0530] {processor.py:186} INFO - Started process (PID=14535) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:18:16.771+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:18:16.772+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:16.772+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:18:16.785+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:18:16.822+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:16.822+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:18:16.826+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:16.826+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:18:16.832+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-03-27T07:19:26.991+0530] {processor.py:186} INFO - Started process (PID=14887) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:19:26.992+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:19:26.992+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:26.992+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:19:27.006+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:19:27.043+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:27.043+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:19:27.047+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:27.047+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:19:27.053+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:20:38.709+0530] {processor.py:186} INFO - Started process (PID=15055) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:20:38.710+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:20:38.710+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:38.710+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:20:38.724+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:20:38.761+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:38.761+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:20:38.765+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:38.765+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:20:38.771+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:21:53.549+0530] {processor.py:186} INFO - Started process (PID=15176) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:21:53.550+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:21:53.551+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:53.551+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:21:53.565+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:21:53.602+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:53.602+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:21:53.606+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:53.606+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:21:53.612+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T07:23:03.997+0530] {processor.py:186} INFO - Started process (PID=15323) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:23:03.999+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:23:03.999+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:03.999+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:23:04.013+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:23:04.050+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:04.050+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:23:04.054+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:04.053+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:23:04.060+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T07:24:14.348+0530] {processor.py:186} INFO - Started process (PID=15449) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:24:14.348+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:24:14.349+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:14.348+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:24:14.362+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:24:14.401+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:14.401+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:24:14.405+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:14.405+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:24:14.412+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.065 seconds
+[2025-03-27T07:25:25.108+0530] {processor.py:186} INFO - Started process (PID=15590) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:25:25.109+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:25:25.110+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:25.110+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:25:25.123+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:25:25.161+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:25.161+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:25:25.165+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:25.165+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:25:25.171+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T07:26:37.823+0530] {processor.py:186} INFO - Started process (PID=15705) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:26:37.824+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:26:37.825+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:37.825+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:26:37.838+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:26:37.875+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:37.875+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:26:37.879+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:37.879+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:26:37.885+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:27:51.008+0530] {processor.py:186} INFO - Started process (PID=15817) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:27:51.011+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:27:51.012+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:51.012+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:27:51.062+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:27:51.132+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:51.132+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:27:51.140+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:51.140+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:27:51.156+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.149 seconds
+[2025-03-27T07:29:05.695+0530] {processor.py:186} INFO - Started process (PID=15960) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:29:05.696+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:29:05.696+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:05.696+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:29:05.710+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:29:05.746+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:05.746+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:29:05.750+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:05.750+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:29:05.756+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-03-27T07:30:20.025+0530] {processor.py:186} INFO - Started process (PID=16101) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:30:20.026+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:30:20.026+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:20.026+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:30:20.040+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:30:20.077+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:20.076+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:30:20.081+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:20.080+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:30:20.087+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:31:35.909+0530] {processor.py:186} INFO - Started process (PID=16250) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:31:35.911+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:31:35.911+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:35.911+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:31:35.928+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:31:35.967+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:35.967+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:31:35.971+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:35.971+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:31:35.978+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2025-03-27T07:32:49.809+0530] {processor.py:186} INFO - Started process (PID=16405) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:32:49.810+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:32:49.811+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:49.810+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:32:49.829+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:32:49.872+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:49.871+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:32:49.876+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:49.876+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:32:49.883+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.077 seconds
+[2025-03-27T07:34:05.634+0530] {processor.py:186} INFO - Started process (PID=16578) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:34:05.635+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:34:05.635+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:05.635+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:34:05.649+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:34:05.686+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:05.686+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:34:05.690+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:05.690+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:34:05.696+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:35:23.699+0530] {processor.py:186} INFO - Started process (PID=16707) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:35:23.700+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:35:23.701+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:23.700+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:35:23.724+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:35:23.791+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:23.791+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:35:23.798+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:23.798+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:35:23.810+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.112 seconds
+[2025-03-27T07:36:33.931+0530] {processor.py:186} INFO - Started process (PID=16836) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:36:33.932+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:36:33.932+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:33.932+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:36:33.946+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:36:33.982+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:33.982+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:36:33.986+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:33.986+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:36:33.992+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:39:20.238+0530] {processor.py:186} INFO - Started process (PID=17046) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:39:20.239+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:39:20.239+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.239+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:39:20.253+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:39:20.320+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.320+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial_objectstorage
+[2025-03-27T07:39:20.324+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.323+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial_objectstorage
+[2025-03-27T07:39:20.326+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.325+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial_objectstorage
+[2025-03-27T07:39:20.328+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.328+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial_objectstorage
+[2025-03-27T07:39:20.330+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.330+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial_objectstorage
+[2025-03-27T07:39:20.332+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.332+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial_objectstorage
+[2025-03-27T07:39:20.334+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.334+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial_objectstorage
+[2025-03-27T07:39:20.334+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.334+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:39:20.339+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.339+0530] {dag.py:3262} INFO - Creating ORM DAG for tutorial_objectstorage
+[2025-03-27T07:39:20.339+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:20.339+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:39:20.345+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.108 seconds
+[2025-03-27T07:41:07.960+0530] {processor.py:186} INFO - Started process (PID=17465) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:41:07.960+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:41:07.961+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:07.961+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:41:07.974+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:41:08.011+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:08.011+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:41:08.015+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:08.014+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:41:08.021+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-03-27T07:42:25.919+0530] {processor.py:186} INFO - Started process (PID=17632) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:42:25.919+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:42:25.920+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:25.920+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:42:25.934+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:42:25.971+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:25.970+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:42:25.974+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:25.974+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:42:25.980+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:43:40.310+0530] {processor.py:186} INFO - Started process (PID=17807) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:43:40.310+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:43:40.311+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:40.311+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:43:40.325+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:43:40.362+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:40.362+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:43:40.366+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:40.366+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:43:40.372+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T07:44:53.243+0530] {processor.py:186} INFO - Started process (PID=18030) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:44:53.243+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:44:53.244+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:53.244+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:44:53.259+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:44:53.299+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:53.299+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:44:53.303+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:53.303+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:44:53.310+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.069 seconds
+[2025-03-27T07:46:04.230+0530] {processor.py:186} INFO - Started process (PID=18212) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:46:04.230+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:46:04.231+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:04.231+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:46:04.245+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:46:04.288+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:04.287+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:46:04.292+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:04.292+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:46:04.299+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.071 seconds
+[2025-03-27T07:47:53.510+0530] {processor.py:186} INFO - Started process (PID=18413) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:47:53.511+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:47:53.511+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:53.511+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:47:53.526+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:47:53.565+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:53.565+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:47:53.569+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:53.569+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:47:53.575+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.067 seconds
+[2025-03-27T07:49:12.343+0530] {processor.py:186} INFO - Started process (PID=18559) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:49:12.344+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:49:12.344+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:12.344+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:49:12.359+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:49:12.397+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:12.396+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:49:12.400+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:12.400+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:49:12.407+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.065 seconds
+[2025-03-27T07:50:29.990+0530] {processor.py:186} INFO - Started process (PID=18692) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:50:29.991+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:50:29.992+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:29.992+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:50:30.005+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:50:30.042+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:30.042+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:50:30.046+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:30.046+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:50:30.052+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:51:45.799+0530] {processor.py:186} INFO - Started process (PID=19156) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:51:45.799+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:51:45.800+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:45.800+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:51:45.815+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:51:45.855+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:45.855+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:51:45.860+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:45.859+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:51:45.867+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2025-03-27T07:52:36.624+0530] {processor.py:186} INFO - Started process (PID=19262) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:52:36.625+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:52:36.625+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:36.625+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:52:36.642+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:52:36.681+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:36.681+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:52:36.685+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:36.685+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:52:36.693+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2025-03-27T07:53:14.228+0530] {processor.py:186} INFO - Started process (PID=19348) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:53:14.229+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:53:14.229+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:14.229+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:53:14.243+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:53:14.281+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:14.280+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:53:14.286+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:14.285+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:53:14.292+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.066 seconds
+[2025-03-27T07:54:27.842+0530] {processor.py:186} INFO - Started process (PID=19713) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:54:27.843+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:54:27.843+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:27.843+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:54:27.857+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:54:27.894+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:27.894+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:54:27.898+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:27.898+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:54:27.904+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T07:56:13.696+0530] {processor.py:186} INFO - Started process (PID=20421) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:56:13.697+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:56:13.698+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:13.697+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:56:13.713+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:56:13.754+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:13.754+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:56:13.758+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:13.758+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:56:13.765+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2025-03-27T07:57:29.478+0530] {processor.py:186} INFO - Started process (PID=20570) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:57:29.479+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:57:29.480+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:29.480+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:57:29.496+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:57:29.538+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:29.538+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:57:29.542+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:29.542+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:57:29.549+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.073 seconds
+[2025-03-27T07:58:47.562+0530] {processor.py:186} INFO - Started process (PID=20719) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:58:47.563+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T07:58:47.563+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:47.563+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:58:47.577+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T07:58:47.614+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:47.613+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:58:47.617+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:47.617+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T07:58:47.624+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T08:00:05.031+0530] {processor.py:186} INFO - Started process (PID=20884) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:00:05.032+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:00:05.033+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:05.033+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:00:05.046+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:00:05.083+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:05.083+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:00:05.087+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:05.087+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:00:05.093+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T08:01:19.854+0530] {processor.py:186} INFO - Started process (PID=21000) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:01:19.854+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:01:19.855+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:19.855+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:01:19.868+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:01:19.905+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:19.905+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:01:19.909+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:19.909+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:01:19.915+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-03-27T08:02:36.446+0530] {processor.py:186} INFO - Started process (PID=21185) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:02:36.447+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:02:36.447+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:36.447+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:02:36.461+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:02:36.498+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:36.498+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:02:36.502+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:36.502+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:02:36.508+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T08:03:53.135+0530] {processor.py:186} INFO - Started process (PID=21328) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:03:53.136+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:03:53.137+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:53.137+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:03:53.151+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:03:53.188+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:53.188+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:03:53.192+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:53.191+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:03:53.198+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T08:05:06.287+0530] {processor.py:186} INFO - Started process (PID=21449) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:05:06.289+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:05:06.289+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:06.289+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:05:06.302+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:05:06.340+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:06.340+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:05:06.344+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:06.343+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:05:06.350+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-03-27T08:06:22.108+0530] {processor.py:186} INFO - Started process (PID=21581) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:06:22.108+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:06:22.109+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:22.109+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:06:22.122+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:06:22.158+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:22.158+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:06:22.162+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:22.162+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:06:22.169+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-03-27T08:07:38.243+0530] {processor.py:186} INFO - Started process (PID=21755) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:07:38.245+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:07:38.245+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:38.245+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:07:38.258+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:07:38.298+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:38.298+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:07:38.302+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:38.302+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:07:38.310+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.068 seconds
+[2025-03-27T08:09:02.551+0530] {processor.py:186} INFO - Started process (PID=21911) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:09:02.553+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:09:02.553+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:02.553+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:09:02.568+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:09:02.610+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:02.610+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:09:02.614+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:02.614+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:09:02.621+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.073 seconds
+[2025-03-27T08:10:19.906+0530] {processor.py:186} INFO - Started process (PID=22034) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:10:19.907+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-27T08:10:19.907+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:19.907+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:10:19.925+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-27T08:10:19.963+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:19.963+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:10:19.967+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:19.967+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-27T08:10:19.974+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.069 seconds

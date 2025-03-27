@@ -1,0 +1,126 @@
+[2025-03-26T22:08:51.028+0530] {processor.py:186} INFO - Started process (PID=6284) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:08:51.028+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:08:51.029+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:51.029+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:08:51.040+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:08:51.131+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:51.131+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:08:51.136+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:51.136+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:08:51.142+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2025-03-26T22:10:35.898+0530] {processor.py:186} INFO - Started process (PID=6806) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:10:35.899+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:10:35.900+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:35.900+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:10:35.911+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:10:35.999+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:35.999+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:10:36.004+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:36.004+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:10:36.010+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2025-03-26T22:13:18.766+0530] {processor.py:186} INFO - Started process (PID=7119) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:13:18.767+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:13:18.767+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:18.767+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:13:18.779+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:13:18.876+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:18.876+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:13:18.880+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:18.880+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:13:18.887+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.122 seconds
+[2025-03-26T22:15:16.751+0530] {processor.py:186} INFO - Started process (PID=7650) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:15:16.752+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:15:16.752+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:16.752+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:15:16.764+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:15:16.851+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:16.850+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:15:16.855+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:16.855+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:15:16.861+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.111 seconds
+[2025-03-26T22:17:49.178+0530] {processor.py:186} INFO - Started process (PID=7942) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:17:49.179+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:17:49.179+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:49.179+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:17:49.190+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:17:49.282+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:49.282+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:17:49.286+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:49.286+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:17:49.293+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2025-03-26T22:20:23.352+0530] {processor.py:186} INFO - Started process (PID=8213) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:20:23.353+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:20:23.353+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:23.353+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:20:23.364+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:20:23.450+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:23.450+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:20:23.454+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:23.454+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:20:23.460+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.109 seconds
+[2025-03-26T22:22:54.528+0530] {processor.py:186} INFO - Started process (PID=8510) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:22:54.529+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:22:54.530+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:54.530+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:22:54.542+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:22:54.631+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:54.631+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:22:54.635+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:54.635+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:22:54.641+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2025-03-26T22:25:31.772+0530] {processor.py:186} INFO - Started process (PID=8795) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:25:31.773+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:25:31.773+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:31.773+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:25:31.785+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:25:31.875+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:31.875+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:25:31.879+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:31.879+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:25:31.886+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2025-03-26T22:28:07.160+0530] {processor.py:186} INFO - Started process (PID=9062) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:28:07.161+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:28:07.162+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:07.161+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:28:07.174+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:28:07.269+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:07.268+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:28:07.273+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:07.273+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:28:07.279+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2025-03-26T22:30:47.910+0530] {processor.py:186} INFO - Started process (PID=9335) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:30:47.910+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:30:47.911+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:47.911+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:30:47.922+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:30:48.015+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:48.015+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:30:48.019+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:48.019+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:30:48.025+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2025-03-26T22:33:08.973+0530] {processor.py:186} INFO - Started process (PID=9583) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:33:08.973+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:33:08.974+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:08.974+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:33:08.985+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:33:09.073+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:09.073+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:33:09.078+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:09.078+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:33:09.084+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2025-03-26T22:35:44.164+0530] {processor.py:186} INFO - Started process (PID=9900) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:35:44.164+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:35:44.165+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:44.165+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:35:44.176+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:35:44.269+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:44.269+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:35:44.274+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:44.274+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:35:44.280+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2025-03-26T22:38:28.274+0530] {processor.py:186} INFO - Started process (PID=10194) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:38:28.275+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:38:28.275+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:28.275+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:38:28.287+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:38:28.377+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:28.377+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:38:28.381+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:28.381+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:38:28.388+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2025-03-26T22:41:00.009+0530] {processor.py:186} INFO - Started process (PID=10763) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:41:00.011+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:41:00.011+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:00.011+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:41:00.023+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:41:00.115+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:00.115+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:41:00.119+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:00.119+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:41:00.125+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2025-03-26T22:43:37.734+0530] {processor.py:186} INFO - Started process (PID=11075) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:43:37.734+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:43:37.735+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:37.735+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:43:37.746+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:43:37.841+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:37.841+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:43:37.846+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:37.846+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:43:37.855+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.123 seconds
+[2025-03-26T22:46:09.895+0530] {processor.py:186} INFO - Started process (PID=11329) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:46:09.897+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:46:09.898+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:09.898+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:46:09.912+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:46:10.005+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:10.005+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:46:10.009+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:10.009+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:46:10.015+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.121 seconds
+[2025-03-26T22:48:35.800+0530] {processor.py:186} INFO - Started process (PID=11584) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:48:35.800+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:48:35.801+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:35.801+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:48:35.812+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:48:35.902+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:35.902+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:48:35.906+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:35.906+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:48:35.912+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2025-03-26T22:51:08.670+0530] {processor.py:186} INFO - Started process (PID=12202) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:51:08.671+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-26T22:51:08.672+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:08.672+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:51:08.683+0530] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-26T22:51:08.786+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:08.785+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:51:08.790+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:08.790+0530] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-26T22:51:08.796+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.127 seconds

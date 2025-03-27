@@ -1,0 +1,140 @@
+[2025-03-26T22:08:46.686+0530] {processor.py:186} INFO - Started process (PID=6277) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:08:46.687+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:08:46.687+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:46.687+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:08:46.694+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:08:46.999+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:46.998+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:08:47.003+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:47.003+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:08:47.009+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.324 seconds
+[2025-03-26T22:10:31.656+0530] {processor.py:186} INFO - Started process (PID=6801) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:10:31.657+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:10:31.657+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:31.657+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:10:31.665+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:10:31.964+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:31.964+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:10:31.968+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:31.968+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:10:31.975+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.320 seconds
+[2025-03-26T22:13:14.693+0530] {processor.py:186} INFO - Started process (PID=7111) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:13:14.693+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:13:14.695+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:14.695+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:13:14.710+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:13:15.220+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:15.219+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:13:15.224+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:15.224+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:13:15.232+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.542 seconds
+[2025-03-26T22:15:10.037+0530] {processor.py:186} INFO - Started process (PID=7636) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:15:10.038+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:15:10.038+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:10.038+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:15:10.046+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:15:10.453+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:10.453+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:15:10.458+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:10.458+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:15:10.465+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.430 seconds
+[2025-03-26T22:17:44.814+0530] {processor.py:186} INFO - Started process (PID=7935) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:17:44.814+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:17:44.815+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:44.815+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:17:44.821+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:17:45.125+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:45.125+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:17:45.129+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:45.129+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:17:45.137+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.324 seconds
+[2025-03-26T22:20:19.717+0530] {processor.py:186} INFO - Started process (PID=8206) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:20:19.717+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:20:19.718+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:19.718+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:20:19.725+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:20:20.022+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:20.022+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:20:20.026+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:20.026+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:20:20.033+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.317 seconds
+[2025-03-26T22:22:50.534+0530] {processor.py:186} INFO - Started process (PID=8505) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:22:50.534+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:22:50.535+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:50.535+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:22:50.542+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:22:50.831+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:50.831+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:22:50.835+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:50.835+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:22:50.842+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.309 seconds
+[2025-03-26T22:25:27.570+0530] {processor.py:186} INFO - Started process (PID=8790) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:25:27.571+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:25:27.571+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:27.571+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:25:27.578+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:25:27.873+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:27.872+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:25:27.877+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:27.877+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:25:27.883+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.315 seconds
+[2025-03-26T22:28:02.791+0530] {processor.py:186} INFO - Started process (PID=9056) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:28:02.791+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:28:02.792+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:02.792+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:28:02.800+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:28:03.111+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:03.110+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:28:03.115+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:03.115+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:28:03.122+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.333 seconds
+[2025-03-26T22:30:43.616+0530] {processor.py:186} INFO - Started process (PID=9328) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:30:43.616+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:30:43.617+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:43.617+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:30:43.624+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:30:43.918+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:43.918+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:30:43.922+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:43.922+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:30:43.929+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.314 seconds
+[2025-03-26T22:33:04.734+0530] {processor.py:186} INFO - Started process (PID=9573) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:33:04.735+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:33:04.735+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:04.735+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:33:04.742+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:33:05.032+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:05.032+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:33:05.036+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:05.036+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:33:05.043+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.310 seconds
+[2025-03-26T22:35:40.619+0530] {processor.py:186} INFO - Started process (PID=9896) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:35:40.620+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:35:40.620+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:40.620+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:35:40.628+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:35:40.912+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:40.912+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:35:40.917+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:40.917+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:35:40.923+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.305 seconds
+[2025-03-26T22:37:00.870+0530] {processor.py:186} INFO - Started process (PID=10044) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:37:00.871+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:37:00.871+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:37:00.871+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:37:00.878+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:37:01.166+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:37:01.166+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:37:01.171+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:37:01.171+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:37:01.179+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.310 seconds
+[2025-03-26T22:38:23.838+0530] {processor.py:186} INFO - Started process (PID=10186) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:38:23.839+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:38:23.839+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:23.839+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:38:23.846+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:38:24.198+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:24.198+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:38:24.202+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:24.202+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:38:24.209+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.372 seconds
+[2025-03-26T22:40:56.009+0530] {processor.py:186} INFO - Started process (PID=10756) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:40:56.010+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:40:56.010+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:56.010+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:40:56.018+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:40:56.322+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:56.321+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:40:56.326+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:56.326+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:40:56.333+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.325 seconds
+[2025-03-26T22:43:33.679+0530] {processor.py:186} INFO - Started process (PID=11071) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:43:33.680+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:43:33.680+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:33.680+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:43:33.687+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:43:33.977+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:33.977+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:43:33.981+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:33.981+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:43:33.988+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.309 seconds
+[2025-03-26T22:46:05.452+0530] {processor.py:186} INFO - Started process (PID=11310) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:46:05.454+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:46:05.454+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:05.454+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:46:05.465+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:46:05.797+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:05.797+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:46:05.802+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:05.802+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:46:05.809+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.358 seconds
+[2025-03-26T22:48:31.673+0530] {processor.py:186} INFO - Started process (PID=11579) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:48:31.673+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:48:31.674+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:31.674+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:48:31.680+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:48:31.920+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:31.919+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:48:31.924+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:31.924+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:48:31.931+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.259 seconds
+[2025-03-26T22:51:04.431+0530] {processor.py:186} INFO - Started process (PID=12191) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:51:04.432+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-26T22:51:04.432+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:04.432+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:51:04.439+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-26T22:51:04.729+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:04.729+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:51:04.734+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:04.734+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-26T22:51:04.740+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.311 seconds
+[2025-03-27T05:05:59.707+0530] {processor.py:186} INFO - Started process (PID=12805) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-27T05:05:59.708+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-27T05:05:59.708+0530] {logging_mixin.py:190} INFO - [2025-03-27T05:05:59.708+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-27T05:05:59.714+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-27T05:05:59.956+0530] {logging_mixin.py:190} INFO - [2025-03-27T05:05:59.955+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T05:05:59.961+0530] {logging_mixin.py:190} INFO - [2025-03-27T05:05:59.961+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-27T05:05:59.967+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.261 seconds

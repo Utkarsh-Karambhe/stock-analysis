@@ -1,0 +1,603 @@
+[2025-03-27T07:05:56.430+0530] {processor.py:186} INFO - Started process (PID=13083) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:05:56.430+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:05:56.431+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:05:56.431+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:05:56.683+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:05:56.722+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:05:56.722+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:05:56.729+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:05:56.729+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:35:00+00:00, run_after=2025-03-27 01:40:00+00:00
+[2025-03-27T07:05:56.735+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.307 seconds
+[2025-03-27T07:07:27.295+0530] {processor.py:186} INFO - Started process (PID=13391) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:07:27.296+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:07:27.296+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:27.296+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:07:27.595+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:07:27.634+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:27.634+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:07:27.641+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:27.641+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:35:00+00:00, run_after=2025-03-27 01:40:00+00:00
+[2025-03-27T07:07:27.648+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.354 seconds
+[2025-03-27T07:08:50.903+0530] {processor.py:186} INFO - Started process (PID=13559) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:08:50.905+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:08:50.906+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:50.906+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:08:51.328+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:08:51.364+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:51.364+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:08:51.373+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:51.373+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:35:00+00:00, run_after=2025-03-27 01:40:00+00:00
+[2025-03-27T07:08:51.380+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.479 seconds
+[2025-03-27T07:10:17.640+0530] {processor.py:186} INFO - Started process (PID=13707) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:10:17.641+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:10:17.641+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:17.641+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:10:17.972+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:10:18.014+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:18.013+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:10:18.022+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:18.022+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:40:00+00:00, run_after=2025-03-27 01:45:00+00:00
+[2025-03-27T07:10:18.028+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.390 seconds
+[2025-03-27T07:11:43.607+0530] {processor.py:186} INFO - Started process (PID=13868) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:11:43.608+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:11:43.609+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:43.609+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:11:44.025+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:11:44.073+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:44.072+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:11:44.082+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:44.081+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:40:00+00:00, run_after=2025-03-27 01:45:00+00:00
+[2025-03-27T07:11:44.091+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.485 seconds
+[2025-03-27T07:12:59.984+0530] {processor.py:186} INFO - Started process (PID=13986) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:12:59.984+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:12:59.985+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:59.985+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:13:00.245+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:13:00.288+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:00.288+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:13:00.305+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:00.305+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:40:00+00:00, run_after=2025-03-27 01:45:00+00:00
+[2025-03-27T07:13:00.315+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.334 seconds
+[2025-03-27T07:14:15.102+0530] {processor.py:186} INFO - Started process (PID=14132) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:14:15.103+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:14:15.104+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:15.104+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:14:15.372+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:14:15.410+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:15.410+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:14:15.417+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:15.417+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:40:00+00:00, run_after=2025-03-27 01:45:00+00:00
+[2025-03-27T07:14:15.424+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.323 seconds
+[2025-03-27T07:15:32.930+0530] {processor.py:186} INFO - Started process (PID=14260) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:15:32.931+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:15:32.932+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:32.932+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:15:33.187+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:15:33.226+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:33.226+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:15:33.233+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:33.233+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:45:00+00:00, run_after=2025-03-27 01:50:00+00:00
+[2025-03-27T07:15:33.240+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.311 seconds
+[2025-03-27T07:16:45.444+0530] {processor.py:186} INFO - Started process (PID=14378) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:16:45.444+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:16:45.445+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:45.445+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:16:45.714+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:16:45.753+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:45.753+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:16:45.760+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:45.760+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:45:00+00:00, run_after=2025-03-27 01:50:00+00:00
+[2025-03-27T07:16:45.767+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.324 seconds
+[2025-03-27T07:17:59.678+0530] {processor.py:186} INFO - Started process (PID=14499) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:17:59.679+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:17:59.680+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:59.680+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:17:59.952+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:17:59.992+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:59.992+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:17:59.999+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:59.999+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:45:00+00:00, run_after=2025-03-27 01:50:00+00:00
+[2025-03-27T07:18:00.006+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.329 seconds
+[2025-03-27T07:19:10.411+0530] {processor.py:186} INFO - Started process (PID=14847) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:19:10.412+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:19:10.413+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:10.413+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:19:10.684+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:19:10.724+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:10.724+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:19:10.731+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:10.731+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:45:00+00:00, run_after=2025-03-27 01:50:00+00:00
+[2025-03-27T07:19:10.738+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.328 seconds
+[2025-03-27T07:20:25.168+0530] {processor.py:186} INFO - Started process (PID=15031) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:20:25.169+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:20:25.170+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:25.170+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:20:25.425+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:20:25.464+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:25.464+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:20:25.471+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:25.471+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:50:00+00:00, run_after=2025-03-27 01:55:00+00:00
+[2025-03-27T07:20:25.479+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.313 seconds
+[2025-03-27T07:21:36.750+0530] {processor.py:186} INFO - Started process (PID=15148) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:21:36.751+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:21:36.751+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:36.751+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:21:37.010+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:21:37.049+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:37.049+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:21:37.057+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:37.057+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 01:50:00+00:00, run_after=2025-03-27 01:55:00+00:00
+[2025-03-27T07:21:37.064+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.315 seconds
+[2025-03-27T07:22:48.889+0530] {processor.py:186} INFO - Started process (PID=15282) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:22:48.891+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:22:48.891+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:48.891+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:22:48.902+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:48.901+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:22:48.902+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:22:49.197+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.309 seconds
+[2025-03-27T07:23:58.248+0530] {processor.py:186} INFO - Started process (PID=15424) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:23:58.249+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:23:58.249+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:58.249+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:23:58.259+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:58.258+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:23:58.259+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:23:58.607+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.360 seconds
+[2025-03-27T07:25:10.710+0530] {processor.py:186} INFO - Started process (PID=15563) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:25:10.711+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:25:10.712+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:10.712+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:25:10.721+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:10.720+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:25:10.721+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:25:11.020+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.310 seconds
+[2025-03-27T07:26:22.266+0530] {processor.py:186} INFO - Started process (PID=15682) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:26:22.267+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:26:22.267+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:22.267+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:26:22.276+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:22.276+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:26:22.276+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:26:22.592+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.327 seconds
+[2025-03-27T07:27:35.221+0530] {processor.py:186} INFO - Started process (PID=15796) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:27:35.222+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:27:35.222+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:35.222+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:27:35.231+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:35.230+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:27:35.231+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:27:35.517+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.297 seconds
+[2025-03-27T07:28:48.908+0530] {processor.py:186} INFO - Started process (PID=15927) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:28:48.908+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:28:48.909+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:48.909+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:28:48.918+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:48.917+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:28:48.918+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:28:49.224+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.317 seconds
+[2025-03-27T07:30:04.122+0530] {processor.py:186} INFO - Started process (PID=16065) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:30:04.123+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:30:04.124+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:04.124+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:30:04.133+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:04.132+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:30:04.133+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:30:04.419+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.298 seconds
+[2025-03-27T07:31:19.759+0530] {processor.py:186} INFO - Started process (PID=16222) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:31:19.760+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:31:19.760+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:19.760+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:31:19.770+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:19.769+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:31:19.770+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:31:20.075+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.317 seconds
+[2025-03-27T07:32:36.209+0530] {processor.py:186} INFO - Started process (PID=16382) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:32:36.209+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:32:36.210+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:36.210+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:32:36.218+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:36.217+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:32:36.218+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:32:36.508+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.300 seconds
+[2025-03-27T07:33:48.747+0530] {processor.py:186} INFO - Started process (PID=16536) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:33:48.747+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:33:48.748+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:48.747+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:33:48.756+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:48.756+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:33:48.756+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:33:49.073+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.328 seconds
+[2025-03-27T07:35:06.258+0530] {processor.py:186} INFO - Started process (PID=16673) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:35:06.259+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:35:06.260+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:06.259+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:35:06.268+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:06.267+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:35:06.268+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:35:06.556+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.299 seconds
+[2025-03-27T07:36:19.020+0530] {processor.py:186} INFO - Started process (PID=16810) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:36:19.020+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:36:19.021+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:19.021+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:36:19.029+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:19.029+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:36:19.029+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:36:19.338+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.320 seconds
+[2025-03-27T07:39:03.864+0530] {processor.py:186} INFO - Started process (PID=17011) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:39:03.864+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:39:03.865+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:03.865+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:39:03.874+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:03.874+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:39:03.875+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:39:04.113+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.251 seconds
+[2025-03-27T07:40:51.785+0530] {processor.py:186} INFO - Started process (PID=17435) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:40:51.786+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:40:51.786+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:51.786+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:40:51.799+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:51.798+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:40:51.799+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:40:52.126+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.343 seconds
+[2025-03-27T07:42:08.315+0530] {processor.py:186} INFO - Started process (PID=17579) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:42:08.315+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:42:08.316+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:08.316+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:42:08.324+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:08.324+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:42:08.324+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:42:08.563+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.250 seconds
+[2025-03-27T07:43:24.637+0530] {processor.py:186} INFO - Started process (PID=17778) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:43:24.638+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:43:24.638+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:24.638+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:43:24.647+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:24.647+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:43:24.648+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:43:24.952+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.317 seconds
+[2025-03-27T07:44:37.383+0530] {processor.py:186} INFO - Started process (PID=17997) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:44:37.383+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:44:37.384+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:37.384+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:44:37.392+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:37.391+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:44:37.392+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:44:37.631+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.250 seconds
+[2025-03-27T07:45:48.722+0530] {processor.py:186} INFO - Started process (PID=18173) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:45:48.722+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:45:48.723+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:48.723+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:45:48.732+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:48.731+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:45:48.732+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:45:48.985+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.266 seconds
+[2025-03-27T07:47:37.765+0530] {processor.py:186} INFO - Started process (PID=18385) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:47:37.765+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:47:37.766+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:37.766+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:47:37.774+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:37.773+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:47:37.774+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:47:38.065+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.302 seconds
+[2025-03-27T07:48:56.514+0530] {processor.py:186} INFO - Started process (PID=18530) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:48:56.514+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:48:56.515+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:56.515+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:48:56.524+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:56.524+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:48:56.525+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:48:56.766+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.254 seconds
+[2025-03-27T07:50:14.365+0530] {processor.py:186} INFO - Started process (PID=18667) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:50:14.366+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:50:14.366+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:14.366+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:50:14.375+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:14.374+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:50:14.375+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:50:14.689+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.325 seconds
+[2025-03-27T07:51:28.808+0530] {processor.py:186} INFO - Started process (PID=19129) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:51:28.808+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:51:28.809+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:28.809+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:51:28.819+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:28.818+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:51:28.819+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:51:29.059+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.253 seconds
+[2025-03-27T07:52:20.930+0530] {processor.py:186} INFO - Started process (PID=19232) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:52:20.930+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:52:20.931+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:20.931+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:52:20.939+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:20.938+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:52:20.939+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:52:21.191+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.262 seconds
+[2025-03-27T07:52:58.440+0530] {processor.py:186} INFO - Started process (PID=19319) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:52:58.441+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:52:58.441+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:58.441+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:52:58.450+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:58.449+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:52:58.450+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:52:58.686+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.247 seconds
+[2025-03-27T07:54:11.648+0530] {processor.py:186} INFO - Started process (PID=19681) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:54:11.648+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:54:11.649+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:11.649+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:54:11.658+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:11.657+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:54:11.658+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:54:11.894+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.247 seconds
+[2025-03-27T07:55:58.377+0530] {processor.py:186} INFO - Started process (PID=20390) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:55:58.378+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:55:58.378+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:58.378+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:55:58.386+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:58.386+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:55:58.386+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:55:58.679+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.303 seconds
+[2025-03-27T07:57:12.683+0530] {processor.py:186} INFO - Started process (PID=20546) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:57:12.684+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:57:12.684+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:12.684+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:57:12.692+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:12.692+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:57:12.692+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:57:12.988+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.306 seconds
+[2025-03-27T07:58:31.838+0530] {processor.py:186} INFO - Started process (PID=20694) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:58:31.840+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:58:31.840+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:31.840+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:58:31.851+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:31.850+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:58:31.851+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:58:32.178+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.341 seconds
+[2025-03-27T07:59:48.154+0530] {processor.py:186} INFO - Started process (PID=20854) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:59:48.156+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T07:59:48.156+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:59:48.156+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:59:48.170+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:59:48.169+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T07:59:48.170+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T07:59:48.514+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.360 seconds
+[2025-03-27T08:01:03.007+0530] {processor.py:186} INFO - Started process (PID=20977) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:01:03.008+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:01:03.008+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:03.008+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:01:03.017+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:03.016+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T08:01:03.017+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:01:03.323+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.317 seconds
+[2025-03-27T08:02:19.402+0530] {processor.py:186} INFO - Started process (PID=21147) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:02:19.403+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:02:19.403+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:19.403+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:02:19.411+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:19.411+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T08:02:19.411+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:02:19.648+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.247 seconds
+[2025-03-27T08:03:36.254+0530] {processor.py:186} INFO - Started process (PID=21296) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:03:36.255+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:03:36.255+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:36.255+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:03:36.265+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:36.264+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T08:03:36.265+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:03:36.567+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.314 seconds
+[2025-03-27T08:04:51.139+0530] {processor.py:186} INFO - Started process (PID=21422) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:04:51.139+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:04:51.140+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:51.140+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:04:51.148+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:51.148+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T08:04:51.149+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:04:51.399+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.262 seconds
+[2025-03-27T08:06:05.468+0530] {processor.py:186} INFO - Started process (PID=21555) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:06:05.469+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:06:05.469+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:05.469+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:06:05.478+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:05.477+0530] {dagbag.py:387} ERROR - Failed to import: /Users/uk/airflow/dags/stock_etl_dag.py
+Traceback (most recent call last):
+  File "/Users/uk/miniforge3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/uk/airflow/dags/stock_etl_dag.py", line 12, in <module>
+    from scripts.fetch_data import fetch_stock_data, transform_data, load_data_to_db
+ModuleNotFoundError: No module named 'scripts.fetch_data'
+[2025-03-27T08:06:05.478+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:06:05.796+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.329 seconds
+[2025-03-27T08:07:21.156+0530] {processor.py:186} INFO - Started process (PID=21717) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:07:21.156+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:07:21.157+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.157+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:07:21.372+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:07:21.467+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.466+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:stock_etl_pipeline
+[2025-03-27T08:07:21.472+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.472+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:stock_etl_pipeline
+[2025-03-27T08:07:21.474+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.474+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:stock_etl_pipeline
+[2025-03-27T08:07:21.478+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.478+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:stock_etl_pipeline
+[2025-03-27T08:07:21.480+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.480+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:stock_etl_pipeline
+[2025-03-27T08:07:21.483+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.483+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:stock_etl_pipeline
+[2025-03-27T08:07:21.485+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.485+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:stock_etl_pipeline
+[2025-03-27T08:07:21.486+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.485+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:07:21.491+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.490+0530] {dag.py:3262} INFO - Creating ORM DAG for stock_etl_pipeline
+[2025-03-27T08:07:21.494+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:21.494+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 02:30:00+00:00, run_after=2025-03-27 02:35:00+00:00
+[2025-03-27T08:07:21.502+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.348 seconds
+[2025-03-27T08:08:45.147+0530] {processor.py:186} INFO - Started process (PID=21883) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:08:45.147+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:08:45.148+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:45.148+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:08:45.584+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:08:45.622+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:45.621+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:08:45.629+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:45.629+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 02:35:00+00:00, run_after=2025-03-27 02:40:00+00:00
+[2025-03-27T08:08:45.636+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.490 seconds
+[2025-03-27T08:10:02.021+0530] {processor.py:186} INFO - Started process (PID=22004) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:10:02.021+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:10:02.022+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:02.022+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:10:02.223+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:10:02.262+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:02.262+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:10:02.269+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:02.269+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 02:35:00+00:00, run_after=2025-03-27 02:40:00+00:00
+[2025-03-27T08:10:02.276+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.256 seconds
+[2025-03-27T08:11:19.071+0530] {processor.py:186} INFO - Started process (PID=22159) to work on /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:11:19.071+0530] {processor.py:914} INFO - Processing file /Users/uk/airflow/dags/stock_etl_dag.py for tasks to queue
+[2025-03-27T08:11:19.072+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:19.072+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:11:19.350+0530] {processor.py:925} INFO - DAG(s) 'stock_etl_pipeline' retrieved from /Users/uk/airflow/dags/stock_etl_dag.py
+[2025-03-27T08:11:19.390+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:19.389+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:11:19.397+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:19.397+0530] {dag.py:4180} INFO - Setting next_dagrun for stock_etl_pipeline to 2025-03-27 02:40:00+00:00, run_after=2025-03-27 02:45:00+00:00
+[2025-03-27T08:11:19.404+0530] {processor.py:208} INFO - Processing /Users/uk/airflow/dags/stock_etl_dag.py took 0.334 seconds

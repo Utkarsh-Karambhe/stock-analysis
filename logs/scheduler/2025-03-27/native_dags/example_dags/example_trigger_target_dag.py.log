@@ -1,0 +1,351 @@
+[2025-03-27T07:06:26.467+0530] {processor.py:186} INFO - Started process (PID=13144) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:06:26.468+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:06:26.468+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:26.468+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:06:26.486+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:06:26.528+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:26.528+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:06:26.533+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:26.533+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:06:26.542+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2025-03-27T07:07:59.435+0530] {processor.py:186} INFO - Started process (PID=13469) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:07:59.436+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:07:59.437+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:59.437+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:07:59.452+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:07:59.493+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:59.493+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:07:59.498+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:59.498+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:07:59.504+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:09:17.749+0530] {processor.py:186} INFO - Started process (PID=13606) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:09:17.750+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:09:17.750+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:17.750+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:09:17.782+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:09:17.842+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:17.842+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:09:17.848+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:17.847+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:09:17.857+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.109 seconds
+[2025-03-27T07:10:49.933+0530] {processor.py:186} INFO - Started process (PID=13769) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:10:49.933+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:10:49.934+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:49.934+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:10:49.949+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:10:49.986+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:49.986+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:10:49.990+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:49.990+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:10:49.996+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2025-03-27T07:12:12.226+0530] {processor.py:186} INFO - Started process (PID=13911) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:12:12.227+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:12:12.227+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:12.227+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:12:12.247+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:12:12.290+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:12.290+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:12:12.295+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:12.295+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:12:12.301+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2025-03-27T07:13:26.304+0530] {processor.py:186} INFO - Started process (PID=14039) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:13:26.306+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:13:26.306+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:26.306+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:13:26.320+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:13:26.358+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:26.358+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:13:26.362+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:26.361+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:13:26.367+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2025-03-27T07:14:42.689+0530] {processor.py:186} INFO - Started process (PID=14173) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:14:42.690+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:14:42.691+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:42.691+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:14:42.706+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:14:42.747+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:42.747+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:14:42.752+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:42.752+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:14:42.759+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:16:00.097+0530] {processor.py:186} INFO - Started process (PID=14304) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:16:00.099+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:16:00.100+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:00.100+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:16:00.116+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:16:00.156+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:00.156+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:16:00.160+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:00.160+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:16:00.167+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:17:12.902+0530] {processor.py:186} INFO - Started process (PID=14424) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:17:12.904+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:17:12.904+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:12.904+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:17:12.918+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:17:12.955+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:12.955+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:17:12.959+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:12.959+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:17:12.965+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T07:18:27.831+0530] {processor.py:186} INFO - Started process (PID=14551) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:18:27.833+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:18:27.833+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:27.833+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:18:27.848+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:18:27.886+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:27.886+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:18:27.890+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:27.890+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:18:27.896+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2025-03-27T07:19:37.857+0530] {processor.py:186} INFO - Started process (PID=14903) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:19:37.859+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:19:37.860+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:37.859+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:19:37.873+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:19:37.911+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:37.911+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:19:37.914+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:37.914+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:19:37.920+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T07:20:50.061+0530] {processor.py:186} INFO - Started process (PID=15070) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:20:50.063+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:20:50.064+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:50.064+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:20:50.077+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:20:50.116+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:50.116+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:20:50.120+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:50.120+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:20:50.127+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2025-03-27T07:22:04.549+0530] {processor.py:186} INFO - Started process (PID=15204) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:22:04.551+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:22:04.551+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:04.551+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:22:04.565+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:22:04.612+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:04.612+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:22:04.618+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:22:04.618+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:22:04.629+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2025-03-27T07:23:12.508+0530] {processor.py:186} INFO - Started process (PID=15339) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:23:12.509+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:23:12.509+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:12.509+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:23:12.522+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:23:12.559+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:12.559+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:23:12.563+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:12.563+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:23:12.569+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-03-27T07:24:23.643+0530] {processor.py:186} INFO - Started process (PID=15482) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:24:23.643+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:24:23.644+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:23.644+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:24:23.658+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:24:23.699+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:23.699+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:24:23.703+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:23.703+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:24:23.710+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2025-03-27T07:25:35.994+0530] {processor.py:186} INFO - Started process (PID=15606) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:25:35.995+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:25:35.995+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:35.995+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:25:36.010+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:25:36.049+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:36.049+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:25:36.053+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:36.053+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:25:36.060+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2025-03-27T07:26:48.750+0530] {processor.py:186} INFO - Started process (PID=15720) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:26:48.751+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:26:48.751+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:48.751+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:26:48.764+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:26:48.801+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:48.801+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:26:48.805+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:48.805+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:26:48.811+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-03-27T07:28:02.785+0530] {processor.py:186} INFO - Started process (PID=15838) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:28:02.786+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:28:02.787+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:02.786+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:28:02.800+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:28:02.840+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:02.840+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:28:02.844+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:02.843+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:28:02.850+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2025-03-27T07:29:16.681+0530] {processor.py:186} INFO - Started process (PID=15976) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:29:16.682+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:29:16.682+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:16.682+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:29:16.698+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:29:16.743+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:16.743+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:29:16.748+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:16.748+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:29:16.756+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2025-03-27T07:30:31.493+0530] {processor.py:186} INFO - Started process (PID=16128) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:30:31.494+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:30:31.494+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:31.494+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:30:31.509+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:30:31.546+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:31.546+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:30:31.550+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:31.550+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:30:31.556+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T07:31:45.984+0530] {processor.py:186} INFO - Started process (PID=16268) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:31:45.985+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:31:45.986+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:45.986+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:31:46.002+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:31:46.043+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:46.043+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:31:46.047+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:46.047+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:31:46.053+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2025-03-27T07:33:01.506+0530] {processor.py:186} INFO - Started process (PID=16431) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:33:01.506+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:33:01.507+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:01.507+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:33:01.521+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:33:01.562+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:01.562+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:33:01.567+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:01.566+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:33:01.573+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2025-03-27T07:34:16.811+0530] {processor.py:186} INFO - Started process (PID=16594) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:34:16.813+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:34:16.813+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:16.813+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:34:16.828+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:34:16.867+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:16.867+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:34:16.871+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:16.871+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:34:16.878+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2025-03-27T07:35:33.837+0530] {processor.py:186} INFO - Started process (PID=16725) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:35:33.839+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:35:33.840+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:33.840+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:35:33.853+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:35:33.889+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:33.889+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:35:33.893+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:33.893+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:35:33.899+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2025-03-27T07:36:45.236+0530] {processor.py:186} INFO - Started process (PID=16852) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:36:45.238+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:36:45.239+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:45.239+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:36:45.253+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:36:45.293+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:45.293+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:36:45.298+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:45.298+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:36:45.305+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2025-03-27T07:39:32.549+0530] {processor.py:186} INFO - Started process (PID=17289) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:39:32.549+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:39:32.550+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.550+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:39:32.566+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:39:32.637+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.636+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2025-03-27T07:39:32.640+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.640+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2025-03-27T07:39:32.642+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.642+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2025-03-27T07:39:32.644+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.644+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_trigger_target_dag
+[2025-03-27T07:39:32.647+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.646+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_trigger_target_dag
+[2025-03-27T07:39:32.648+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.648+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_trigger_target_dag
+[2025-03-27T07:39:32.650+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.650+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_trigger_target_dag
+[2025-03-27T07:39:32.650+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.650+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:39:32.655+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.655+0530] {dag.py:3262} INFO - Creating ORM DAG for example_trigger_target_dag
+[2025-03-27T07:39:32.655+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:32.655+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:39:32.661+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.115 seconds
+[2025-03-27T07:41:19.384+0530] {processor.py:186} INFO - Started process (PID=17502) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:41:19.385+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:41:19.385+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:19.385+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:41:19.400+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:41:19.440+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:19.440+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:41:19.444+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:19.444+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:41:19.451+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2025-03-27T07:42:36.934+0530] {processor.py:186} INFO - Started process (PID=17664) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:42:36.935+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:42:36.935+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:36.935+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:42:36.950+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:42:36.988+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:36.988+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:42:36.992+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:36.992+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:42:36.998+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2025-03-27T07:43:51.666+0530] {processor.py:186} INFO - Started process (PID=17841) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:43:51.666+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:43:51.667+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:51.667+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:43:51.681+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:43:51.719+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:51.719+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:43:51.723+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:51.723+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:43:51.730+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2025-03-27T07:45:04.540+0530] {processor.py:186} INFO - Started process (PID=18064) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:45:04.541+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:45:04.541+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:04.541+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:45:04.555+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:45:04.591+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:04.591+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:45:04.595+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:04.595+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:45:04.601+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-03-27T07:46:16.545+0530] {processor.py:186} INFO - Started process (PID=18234) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:46:16.546+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:46:16.546+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:16.546+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:46:16.563+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:46:16.603+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:16.603+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:46:16.608+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:16.607+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:46:16.616+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2025-03-27T07:48:03.994+0530] {processor.py:186} INFO - Started process (PID=18433) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:48:03.995+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:48:03.995+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:03.995+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:48:04.013+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:48:04.054+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:04.054+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:48:04.058+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:48:04.058+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:48:04.064+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:49:23.901+0530] {processor.py:186} INFO - Started process (PID=18575) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:49:23.901+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:49:23.902+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:23.902+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:49:23.916+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:49:23.953+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:23.953+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:49:23.956+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:23.956+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:49:23.963+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T07:50:41.621+0530] {processor.py:186} INFO - Started process (PID=19047) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:50:41.622+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:50:41.622+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:41.622+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:50:41.636+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:50:41.673+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:41.673+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:50:41.677+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:41.677+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:50:41.683+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2025-03-27T07:51:55.812+0530] {processor.py:186} INFO - Started process (PID=19176) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:51:55.813+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:51:55.813+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:55.813+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:51:55.829+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:51:55.870+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:55.870+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:51:55.874+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:55.874+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:51:55.881+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:53:25.760+0530] {processor.py:186} INFO - Started process (PID=19363) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:53:25.760+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:53:25.761+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:25.761+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:53:25.776+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:53:25.816+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:25.816+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:53:25.821+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:25.820+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:53:25.829+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:54:39.858+0530] {processor.py:186} INFO - Started process (PID=19969) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:54:39.859+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:54:39.859+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:39.859+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:54:39.877+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:54:39.913+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:39.913+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:54:39.917+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:39.917+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:54:39.924+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2025-03-27T07:56:25.420+0530] {processor.py:186} INFO - Started process (PID=20447) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:56:25.421+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:56:25.421+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:25.421+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:56:25.436+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:56:25.478+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:25.478+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:56:25.482+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:25.482+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:56:25.490+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2025-03-27T07:57:39.450+0530] {processor.py:186} INFO - Started process (PID=20586) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:57:39.451+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:57:39.452+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:39.452+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:57:39.467+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:57:39.507+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:39.507+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:57:39.511+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:39.511+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:57:39.518+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2025-03-27T07:58:59.235+0530] {processor.py:186} INFO - Started process (PID=20739) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:58:59.235+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T07:58:59.236+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:59.236+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:58:59.250+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T07:58:59.287+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:59.287+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:58:59.291+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:59.291+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T07:58:59.298+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T08:00:14.105+0530] {processor.py:186} INFO - Started process (PID=20900) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:00:14.106+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:00:14.106+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:14.106+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:00:14.124+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:00:14.165+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:14.165+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:00:14.169+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:14.169+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:00:14.176+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2025-03-27T08:01:30.693+0530] {processor.py:186} INFO - Started process (PID=21027) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:01:30.693+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:01:30.694+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:30.694+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:01:30.707+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:01:30.744+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:30.744+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:01:30.747+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:30.747+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:01:30.753+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-03-27T08:02:47.161+0530] {processor.py:186} INFO - Started process (PID=21206) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:02:47.162+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:02:47.162+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:47.162+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:02:47.176+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:02:47.213+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:47.213+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:02:47.217+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:47.217+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:02:47.223+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2025-03-27T08:04:04.291+0530] {processor.py:186} INFO - Started process (PID=21345) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:04:04.291+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:04:04.292+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:04.291+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:04:04.305+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:04:04.342+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:04.341+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:04:04.345+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:04:04.345+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:04:04.353+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T08:05:16.130+0530] {processor.py:186} INFO - Started process (PID=21465) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:05:16.130+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:05:16.131+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:16.131+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:05:16.144+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:05:16.182+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:16.182+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:05:16.186+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:16.186+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:05:16.192+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2025-03-27T08:06:31.092+0530] {processor.py:186} INFO - Started process (PID=21595) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:06:31.093+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:06:31.093+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:31.093+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:06:31.108+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:06:31.146+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:31.146+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:06:31.149+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:31.149+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:06:31.155+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-03-27T08:07:55.681+0530] {processor.py:186} INFO - Started process (PID=21797) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:07:55.682+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:07:55.682+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:55.682+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:07:55.697+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:07:55.738+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:55.738+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:07:55.747+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:55.747+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:07:55.754+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2025-03-27T08:09:13.409+0530] {processor.py:186} INFO - Started process (PID=21927) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:09:13.410+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:09:13.410+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:13.410+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:09:13.424+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:09:13.469+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:13.469+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:09:13.473+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:13.473+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:09:13.480+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2025-03-27T08:10:28.890+0530] {processor.py:186} INFO - Started process (PID=22049) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:10:28.891+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T08:10:28.891+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:28.891+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:10:28.905+0530] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T08:10:28.943+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:28.943+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:10:28.948+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:28.948+0530] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T08:10:28.954+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds

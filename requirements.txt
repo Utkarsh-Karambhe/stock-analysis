@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+sqlalchemy
+streamlit
+requests
+psycopg2-binary 

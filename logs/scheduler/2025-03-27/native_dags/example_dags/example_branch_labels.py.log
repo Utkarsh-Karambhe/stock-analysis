@@ -1,0 +1,183 @@
+[2025-03-27T07:05:48.666+0530] {processor.py:186} INFO - Started process (PID=13067) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:05:48.667+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:05:48.667+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:05:48.667+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:05:48.670+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:05:48.709+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:05:48.709+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:05:48.716+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:05:48.716+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:05:48.722+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-27T07:08:41.798+0530] {processor.py:186} INFO - Started process (PID=13544) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:08:41.798+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:08:41.799+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:41.799+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:08:41.803+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:08:41.841+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:41.841+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:08:41.848+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:08:41.848+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:08:41.854+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-27T07:11:34.383+0530] {processor.py:186} INFO - Started process (PID=13855) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:11:34.383+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:11:34.384+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:34.384+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:11:34.387+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:11:34.427+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:34.427+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:11:34.435+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:11:34.434+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:11:34.440+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-27T07:14:06.137+0530] {processor.py:186} INFO - Started process (PID=14118) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:14:06.138+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:14:06.138+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:06.138+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:14:06.142+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:14:06.181+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:06.181+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:14:06.188+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:06.188+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:14:06.195+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-27T07:16:38.574+0530] {processor.py:186} INFO - Started process (PID=14364) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:16:38.575+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:16:38.575+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:38.575+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:16:38.579+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:16:38.618+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:38.618+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:16:38.625+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:16:38.625+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:16:38.631+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-27T07:19:02.261+0530] {processor.py:186} INFO - Started process (PID=14613) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:19:02.262+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:19:02.262+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:02.262+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:19:02.266+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:19:02.307+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:02.307+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:19:02.316+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:02.316+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:19:02.324+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.065 seconds
+[2025-03-27T07:21:28.084+0530] {processor.py:186} INFO - Started process (PID=15133) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:21:28.086+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:21:28.086+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:28.086+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:21:28.090+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:21:28.128+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:28.128+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:21:28.135+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:28.135+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:21:28.141+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-27T07:23:49.787+0530] {processor.py:186} INFO - Started process (PID=15406) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:23:49.787+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:23:49.788+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:49.788+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:23:49.791+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:23:49.829+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:49.829+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:23:49.836+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:49.835+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:23:49.842+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-27T07:26:13.102+0530] {processor.py:186} INFO - Started process (PID=15668) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:26:13.102+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:26:13.103+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:13.103+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:26:13.107+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:26:13.148+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:13.148+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:26:13.155+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:13.155+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:26:13.161+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.061 seconds
+[2025-03-27T07:28:41.977+0530] {processor.py:186} INFO - Started process (PID=15912) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:28:41.978+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:28:41.978+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:41.978+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:28:41.982+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:28:42.022+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:42.022+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:28:42.029+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:28:42.029+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:28:42.035+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.060 seconds
+[2025-03-27T07:31:10.962+0530] {processor.py:186} INFO - Started process (PID=16205) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:31:10.963+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:31:10.963+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:10.963+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:31:10.967+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:31:11.008+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:11.008+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:31:11.015+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:11.015+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:31:11.022+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.063 seconds
+[2025-03-27T07:33:40.213+0530] {processor.py:186} INFO - Started process (PID=16514) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:33:40.214+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:33:40.214+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:40.214+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:33:40.218+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:33:40.257+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:40.257+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:33:40.264+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:33:40.264+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:33:40.270+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-27T07:36:09.150+0530] {processor.py:186} INFO - Started process (PID=16795) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:36:09.151+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:36:09.151+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:09.151+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:36:09.155+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:36:09.198+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:09.197+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:36:09.205+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:09.205+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:36:09.211+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.063 seconds
+[2025-03-27T07:40:42.734+0530] {processor.py:186} INFO - Started process (PID=17422) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:40:42.735+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:40:42.735+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.735+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:40:42.739+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:40:42.808+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.808+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-03-27T07:40:42.811+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.811+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-03-27T07:40:42.813+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.813+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-03-27T07:40:42.816+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.816+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2025-03-27T07:40:42.818+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.818+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2025-03-27T07:40:42.820+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.820+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2025-03-27T07:40:42.822+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.822+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2025-03-27T07:40:42.822+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.822+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:40:42.826+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.826+0530] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2025-03-27T07:40:42.830+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:40:42.829+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:40:42.835+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds
+[2025-03-27T07:43:15.412+0530] {processor.py:186} INFO - Started process (PID=17763) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:43:15.413+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:43:15.413+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:15.413+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:43:15.417+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:43:15.455+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:15.455+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:43:15.462+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:15.462+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:43:15.468+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-27T07:45:43.086+0530] {processor.py:186} INFO - Started process (PID=18133) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:45:43.087+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:45:43.087+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:43.087+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:45:43.091+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:45:43.131+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:43.131+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:45:43.138+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:45:43.138+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:45:43.144+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-27T07:47:29.709+0530] {processor.py:186} INFO - Started process (PID=18370) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:47:29.710+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:47:29.710+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:29.710+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:47:29.716+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:47:29.757+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:29.756+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:47:29.764+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:29.764+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:47:29.771+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.063 seconds
+[2025-03-27T07:50:05.392+0530] {processor.py:186} INFO - Started process (PID=18639) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:50:05.392+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:50:05.393+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:05.393+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:50:05.396+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:50:05.436+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:05.435+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:50:05.443+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:05.443+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:50:05.449+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-27T07:55:49.016+0530] {processor.py:186} INFO - Started process (PID=20370) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:55:49.017+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:55:49.017+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:49.017+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:55:49.021+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:55:49.060+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:49.060+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:55:49.067+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:55:49.067+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:55:49.073+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-27T07:58:22.918+0530] {processor.py:186} INFO - Started process (PID=20677) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:58:22.918+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T07:58:22.919+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:22.919+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:58:22.922+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T07:58:22.961+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:22.961+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:58:22.968+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:22.968+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:58:22.974+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-27T08:00:53.899+0530] {processor.py:186} INFO - Started process (PID=20960) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:00:53.900+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T08:00:53.900+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:53.900+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:00:53.904+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:00:53.942+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:53.942+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:00:53.949+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:53.949+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:00:53.955+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-27T08:03:27.924+0530] {processor.py:186} INFO - Started process (PID=21277) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:03:27.925+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T08:03:27.926+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:27.925+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:03:27.929+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:03:27.968+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:27.968+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:03:27.975+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:27.975+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:03:27.982+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-27T08:05:56.195+0530] {processor.py:186} INFO - Started process (PID=21539) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:05:56.196+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T08:05:56.196+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:56.196+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:05:56.200+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:05:56.241+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:56.241+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:05:56.248+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:56.248+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:05:56.254+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.061 seconds
+[2025-03-27T08:08:35.313+0530] {processor.py:186} INFO - Started process (PID=21868) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:08:35.315+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T08:08:35.315+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:35.315+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:08:35.319+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:08:35.360+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:35.359+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:08:35.368+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:08:35.368+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:08:35.376+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.064 seconds
+[2025-03-27T08:11:09.631+0530] {processor.py:186} INFO - Started process (PID=22132) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:11:09.632+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-27T08:11:09.633+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:09.633+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:11:09.640+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-27T08:11:09.683+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:09.683+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:11:09.691+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:11:09.691+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:11:09.698+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.068 seconds

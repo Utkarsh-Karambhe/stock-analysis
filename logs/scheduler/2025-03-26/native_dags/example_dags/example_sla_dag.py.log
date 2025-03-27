@@ -1,0 +1,238 @@
+[2025-03-26T22:08:36.892+0530] {processor.py:186} INFO - Started process (PID=6262) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:08:36.893+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:08:36.893+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:36.893+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:08:36.909+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:08:36.949+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:36.949+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:08:36.957+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:36.957+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:36:00+00:00, run_after=2025-03-26 16:38:00+00:00
+[2025-03-26T22:08:36.964+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.073 seconds
+[2025-03-26T22:10:20.732+0530] {processor.py:186} INFO - Started process (PID=6783) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:10:20.734+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:10:20.735+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:20.735+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:10:20.750+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:10:20.791+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:20.791+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:10:20.800+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:20.800+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:38:00+00:00, run_after=2025-03-26 16:40:00+00:00
+[2025-03-26T22:10:20.806+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.075 seconds
+[2025-03-26T22:11:35.873+0530] {processor.py:186} INFO - Started process (PID=6906) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:11:35.874+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:11:35.874+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:35.874+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:11:35.888+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:11:35.925+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:35.925+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:11:35.933+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:35.933+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:38:00+00:00, run_after=2025-03-26 16:40:00+00:00
+[2025-03-26T22:11:35.939+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2025-03-26T22:13:04.466+0530] {processor.py:186} INFO - Started process (PID=7088) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:13:04.466+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:13:04.467+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:04.467+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:13:04.481+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:13:04.518+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:04.518+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:13:04.526+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:13:04.526+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:40:00+00:00, run_after=2025-03-26 16:42:00+00:00
+[2025-03-26T22:13:04.533+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2025-03-26T22:14:53.494+0530] {processor.py:186} INFO - Started process (PID=7597) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:14:53.495+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:14:53.496+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:53.495+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:14:53.510+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:14:53.550+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:53.550+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:14:53.558+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:53.558+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:42:00+00:00, run_after=2025-03-26 16:44:00+00:00
+[2025-03-26T22:14:53.564+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2025-03-26T22:16:14.989+0530] {processor.py:186} INFO - Started process (PID=7774) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:16:14.990+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:16:14.991+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:14.990+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:16:15.005+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:16:15.043+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:15.043+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:16:15.051+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:15.051+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:44:00+00:00, run_after=2025-03-26 16:46:00+00:00
+[2025-03-26T22:16:15.057+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.069 seconds
+[2025-03-26T22:17:33.910+0530] {processor.py:186} INFO - Started process (PID=7920) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:17:33.911+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:17:33.912+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:33.912+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:17:33.930+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:17:33.973+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:33.973+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:17:33.982+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:33.982+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:44:00+00:00, run_after=2025-03-26 16:46:00+00:00
+[2025-03-26T22:17:33.988+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.079 seconds
+[2025-03-26T22:18:51.927+0530] {processor.py:186} INFO - Started process (PID=8056) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:18:51.928+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:18:51.928+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:51.928+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:18:51.942+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:18:51.979+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:51.979+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:18:51.987+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:51.987+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:46:00+00:00, run_after=2025-03-26 16:48:00+00:00
+[2025-03-26T22:18:51.993+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2025-03-26T22:20:09.680+0530] {processor.py:186} INFO - Started process (PID=8188) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:20:09.680+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:20:09.681+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:09.681+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:20:09.700+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:20:09.750+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:09.749+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:20:09.760+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:09.760+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:48:00+00:00, run_after=2025-03-26 16:50:00+00:00
+[2025-03-26T22:20:09.768+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.090 seconds
+[2025-03-26T22:21:26.182+0530] {processor.py:186} INFO - Started process (PID=8352) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:21:26.183+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:21:26.183+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:26.183+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:21:26.199+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:21:26.240+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:26.240+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:21:26.249+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:26.248+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:48:00+00:00, run_after=2025-03-26 16:50:00+00:00
+[2025-03-26T22:21:26.255+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.074 seconds
+[2025-03-26T22:22:41.170+0530] {processor.py:186} INFO - Started process (PID=8492) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:22:41.171+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:22:41.171+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:41.171+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:22:41.186+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:22:41.223+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:41.222+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:22:41.231+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:41.231+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:50:00+00:00, run_after=2025-03-26 16:52:00+00:00
+[2025-03-26T22:22:41.237+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2025-03-26T22:23:56.173+0530] {processor.py:186} INFO - Started process (PID=8624) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:23:56.174+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:23:56.174+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:56.174+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:23:56.190+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:23:56.231+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:56.231+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:23:56.240+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:56.239+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:50:00+00:00, run_after=2025-03-26 16:52:00+00:00
+[2025-03-26T22:23:56.246+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.075 seconds
+[2025-03-26T22:25:18.589+0530] {processor.py:186} INFO - Started process (PID=8768) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:25:18.590+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:25:18.591+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:18.591+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:25:18.606+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:25:18.643+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:18.642+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:25:18.651+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:18.651+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:52:00+00:00, run_after=2025-03-26 16:54:00+00:00
+[2025-03-26T22:25:18.657+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.069 seconds
+[2025-03-26T22:26:36.531+0530] {processor.py:186} INFO - Started process (PID=8897) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:26:36.532+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:26:36.533+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:36.533+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:26:36.546+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:26:36.583+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:36.583+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:26:36.591+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:36.591+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:54:00+00:00, run_after=2025-03-26 16:56:00+00:00
+[2025-03-26T22:26:36.597+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2025-03-26T22:27:54.726+0530] {processor.py:186} INFO - Started process (PID=9041) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:27:54.727+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:27:54.727+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:54.727+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:27:54.744+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:27:54.785+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:54.785+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:27:54.795+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:54.795+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:54:00+00:00, run_after=2025-03-26 16:56:00+00:00
+[2025-03-26T22:27:54.802+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.078 seconds
+[2025-03-26T22:29:18.293+0530] {processor.py:186} INFO - Started process (PID=9171) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:29:18.294+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:29:18.294+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:18.294+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:29:18.315+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:29:18.354+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:18.353+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:29:18.362+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:18.361+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:56:00+00:00, run_after=2025-03-26 16:58:00+00:00
+[2025-03-26T22:29:18.368+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.076 seconds
+[2025-03-26T22:30:35.078+0530] {processor.py:186} INFO - Started process (PID=9312) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:30:35.081+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:30:35.082+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:35.082+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:30:35.096+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:30:35.133+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:35.133+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:30:35.141+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:35.141+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:58:00+00:00, run_after=2025-03-26 17:00:00+00:00
+[2025-03-26T22:30:35.147+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds
+[2025-03-26T22:31:45.613+0530] {processor.py:186} INFO - Started process (PID=9440) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:31:45.614+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:31:45.614+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:45.614+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:31:45.628+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:31:45.664+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:45.664+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:31:45.673+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:45.673+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 16:58:00+00:00, run_after=2025-03-26 17:00:00+00:00
+[2025-03-26T22:31:45.678+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2025-03-26T22:32:56.061+0530] {processor.py:186} INFO - Started process (PID=9554) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:32:56.061+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:32:56.062+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:56.062+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:32:56.076+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:32:56.113+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:56.113+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:32:56.122+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:56.122+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:00:00+00:00, run_after=2025-03-26 17:02:00+00:00
+[2025-03-26T22:32:56.128+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2025-03-26T22:34:10.312+0530] {processor.py:186} INFO - Started process (PID=9686) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:34:10.312+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:34:10.313+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:10.313+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:34:10.329+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:34:10.371+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:10.370+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:34:10.380+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:10.380+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:02:00+00:00, run_after=2025-03-26 17:04:00+00:00
+[2025-03-26T22:34:10.386+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.076 seconds
+[2025-03-26T22:35:32.450+0530] {processor.py:186} INFO - Started process (PID=9882) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:35:32.450+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:35:32.451+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:32.451+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:35:32.465+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:35:32.504+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:32.504+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:35:32.512+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:32.512+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:02:00+00:00, run_after=2025-03-26 17:04:00+00:00
+[2025-03-26T22:35:32.518+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds
+[2025-03-26T22:36:51.301+0530] {processor.py:186} INFO - Started process (PID=10028) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:36:51.301+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:36:51.302+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:51.302+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:36:51.316+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:36:51.353+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:51.353+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:36:51.361+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:51.361+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:04:00+00:00, run_after=2025-03-26 17:06:00+00:00
+[2025-03-26T22:36:51.367+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2025-03-26T22:38:12.855+0530] {processor.py:186} INFO - Started process (PID=10170) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:38:12.856+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:38:12.857+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:12.856+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:38:12.871+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:38:12.911+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:12.911+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:38:12.922+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:12.922+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:06:00+00:00, run_after=2025-03-26 17:08:00+00:00
+[2025-03-26T22:38:12.928+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.074 seconds
+[2025-03-26T22:39:29.220+0530] {processor.py:186} INFO - Started process (PID=10554) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:39:29.221+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:39:29.222+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:29.222+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:39:29.236+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:39:29.273+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:29.272+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:39:29.280+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:29.280+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:06:00+00:00, run_after=2025-03-26 17:08:00+00:00
+[2025-03-26T22:39:29.286+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2025-03-26T22:40:45.147+0530] {processor.py:186} INFO - Started process (PID=10738) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:40:45.148+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:40:45.149+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:45.149+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:40:45.164+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:40:45.202+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:45.202+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:40:45.210+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:45.210+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:08:00+00:00, run_after=2025-03-26 17:10:00+00:00
+[2025-03-26T22:40:45.216+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2025-03-26T22:42:06.191+0530] {processor.py:186} INFO - Started process (PID=10928) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:42:06.192+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:42:06.192+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:06.192+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:42:06.207+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:42:06.246+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:06.246+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:42:06.255+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:06.255+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:10:00+00:00, run_after=2025-03-26 17:12:00+00:00
+[2025-03-26T22:42:06.261+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2025-03-26T22:43:27.615+0530] {processor.py:186} INFO - Started process (PID=11058) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:43:27.616+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:43:27.617+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:27.616+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:43:27.631+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:43:27.669+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:27.669+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:43:27.677+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:27.677+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:10:00+00:00, run_after=2025-03-26 17:12:00+00:00
+[2025-03-26T22:43:27.683+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.069 seconds
+[2025-03-26T22:44:41.151+0530] {processor.py:186} INFO - Started process (PID=11172) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:44:41.151+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:44:41.152+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:41.152+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:44:41.166+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:44:41.205+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:41.205+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:44:41.214+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:41.214+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:12:00+00:00, run_after=2025-03-26 17:14:00+00:00
+[2025-03-26T22:44:41.221+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2025-03-26T22:45:56.008+0530] {processor.py:186} INFO - Started process (PID=11290) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:45:56.008+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:45:56.009+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:56.009+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:45:56.023+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:45:56.061+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:56.060+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:45:56.068+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:56.068+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:12:00+00:00, run_after=2025-03-26 17:14:00+00:00
+[2025-03-26T22:45:56.074+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2025-03-26T22:47:13.140+0530] {processor.py:186} INFO - Started process (PID=11431) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:47:13.141+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:47:13.141+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:13.141+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:47:13.155+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:47:13.192+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:13.192+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:47:13.200+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:13.200+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:14:00+00:00, run_after=2025-03-26 17:16:00+00:00
+[2025-03-26T22:47:13.206+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2025-03-26T22:48:27.592+0530] {processor.py:186} INFO - Started process (PID=11568) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:48:27.593+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:48:27.593+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:27.593+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:48:27.607+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:48:27.644+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:27.644+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:48:27.651+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:27.651+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:16:00+00:00, run_after=2025-03-26 17:18:00+00:00
+[2025-03-26T22:48:27.657+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.066 seconds
+[2025-03-26T22:49:39.472+0530] {processor.py:186} INFO - Started process (PID=11773) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:49:39.473+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:49:39.473+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:39.473+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:49:39.490+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:49:39.530+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:39.530+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:49:39.539+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:39.538+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:16:00+00:00, run_after=2025-03-26 17:18:00+00:00
+[2025-03-26T22:49:39.545+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.075 seconds
+[2025-03-26T22:50:56.599+0530] {processor.py:186} INFO - Started process (PID=12176) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:50:56.600+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-26T22:50:56.600+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:56.600+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:50:56.614+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-26T22:50:56.652+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:56.652+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:50:56.660+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:56.660+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 17:18:00+00:00, run_after=2025-03-26 17:20:00+00:00
+[2025-03-26T22:50:56.666+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2025-03-27T01:41:20.153+0530] {processor.py:186} INFO - Started process (PID=12528) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-27T01:41:20.154+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-27T01:41:20.154+0530] {logging_mixin.py:190} INFO - [2025-03-27T01:41:20.154+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-27T01:41:20.168+0530] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-27T01:41:20.206+0530] {logging_mixin.py:190} INFO - [2025-03-27T01:41:20.206+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T01:41:20.216+0530] {logging_mixin.py:190} INFO - [2025-03-27T01:41:20.216+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-26 20:08:00+00:00, run_after=2025-03-26 20:10:00+00:00
+[2025-03-27T01:41:20.222+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds

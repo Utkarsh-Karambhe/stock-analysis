@@ -1,0 +1,238 @@
+[2025-03-26T22:08:29.486+0530] {processor.py:186} INFO - Started process (PID=6252) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:08:29.487+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:08:29.487+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:29.487+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:08:29.490+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:08:29.739+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:29.739+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:08:29.743+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:29.743+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:08:29.750+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.265 seconds
+[2025-03-26T22:10:13.717+0530] {processor.py:186} INFO - Started process (PID=6772) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:10:13.718+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:10:13.718+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:13.718+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:10:13.722+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:10:13.972+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:13.972+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:10:13.976+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:10:13.976+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:10:13.982+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.266 seconds
+[2025-03-26T22:11:28.495+0530] {processor.py:186} INFO - Started process (PID=6897) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:11:28.496+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:11:28.496+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:28.496+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:11:28.499+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:11:28.775+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:28.774+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:11:28.779+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:28.779+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:11:28.786+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.292 seconds
+[2025-03-26T22:12:56.686+0530] {processor.py:186} INFO - Started process (PID=7071) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:12:56.687+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:12:56.687+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:12:56.687+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:12:56.690+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:12:56.928+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:12:56.928+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:12:56.932+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:12:56.932+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:12:56.938+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.253 seconds
+[2025-03-26T22:14:45.556+0530] {processor.py:186} INFO - Started process (PID=7585) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:14:45.557+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:14:45.557+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:45.557+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:14:45.561+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:14:45.830+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:45.830+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:14:45.835+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:45.835+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:14:45.841+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.287 seconds
+[2025-03-26T22:16:07.804+0530] {processor.py:186} INFO - Started process (PID=7764) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:16:07.805+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:16:07.805+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:07.805+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:16:07.810+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:16:08.070+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:08.069+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:16:08.074+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:16:08.074+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:16:08.080+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.278 seconds
+[2025-03-26T22:17:25.428+0530] {processor.py:186} INFO - Started process (PID=7907) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:17:25.429+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:17:25.429+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:25.429+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:17:25.433+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:17:25.666+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:25.666+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:17:25.670+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:25.670+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:17:25.676+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.249 seconds
+[2025-03-26T22:18:44.003+0530] {processor.py:186} INFO - Started process (PID=8041) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:18:44.004+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:18:44.004+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:44.004+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:18:44.007+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:18:44.310+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:44.310+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:18:44.314+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:44.314+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:18:44.320+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.319 seconds
+[2025-03-26T22:19:59.534+0530] {processor.py:186} INFO - Started process (PID=8168) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:19:59.535+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:19:59.535+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:19:59.535+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:19:59.538+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:19:59.842+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:19:59.842+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:19:59.846+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:19:59.846+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:19:59.852+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.320 seconds
+[2025-03-26T22:21:17.865+0530] {processor.py:186} INFO - Started process (PID=8341) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:21:17.866+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:21:17.866+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:17.866+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:21:17.870+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:21:18.176+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:18.176+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:21:18.180+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:21:18.180+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:21:18.189+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.325 seconds
+[2025-03-26T22:22:35.051+0530] {processor.py:186} INFO - Started process (PID=8480) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:22:35.052+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:22:35.052+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:35.052+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:22:35.056+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:22:35.344+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:35.344+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:22:35.348+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:35.348+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:22:35.354+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.304 seconds
+[2025-03-26T22:23:48.165+0530] {processor.py:186} INFO - Started process (PID=8614) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:23:48.166+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:23:48.167+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:48.167+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:23:48.172+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:23:48.513+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:48.513+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:23:48.519+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:48.519+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:23:48.526+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.363 seconds
+[2025-03-26T22:25:10.506+0530] {processor.py:186} INFO - Started process (PID=8744) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:25:10.507+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:25:10.508+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:10.508+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:25:10.512+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:25:10.772+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:10.771+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:25:10.776+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:25:10.776+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:25:10.784+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.279 seconds
+[2025-03-26T22:26:29.010+0530] {processor.py:186} INFO - Started process (PID=8888) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:26:29.011+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:26:29.011+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:29.011+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:26:29.014+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:26:29.250+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:29.250+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:26:29.254+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:29.254+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:26:29.260+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.252 seconds
+[2025-03-26T22:27:46.362+0530] {processor.py:186} INFO - Started process (PID=9025) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:27:46.363+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:27:46.363+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:46.363+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:27:46.367+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:27:46.661+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:46.661+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:27:46.665+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:46.665+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:27:46.673+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.312 seconds
+[2025-03-26T22:29:10.104+0530] {processor.py:186} INFO - Started process (PID=9159) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:29:10.105+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:29:10.105+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:10.105+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:29:10.108+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:29:10.403+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:10.403+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:29:10.407+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:29:10.407+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:29:10.414+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.311 seconds
+[2025-03-26T22:30:28.216+0530] {processor.py:186} INFO - Started process (PID=9295) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:30:28.217+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:30:28.217+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:28.217+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:30:28.221+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:30:28.484+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:28.484+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:30:28.488+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:28.488+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:30:28.495+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.280 seconds
+[2025-03-26T22:31:38.018+0530] {processor.py:186} INFO - Started process (PID=9431) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:31:38.019+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:31:38.019+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:38.019+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:31:38.022+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:31:38.262+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:38.262+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:31:38.266+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:38.266+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:31:38.273+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.256 seconds
+[2025-03-26T22:32:48.509+0530] {processor.py:186} INFO - Started process (PID=9543) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:32:48.510+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:32:48.510+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:48.510+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:32:48.514+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:32:48.858+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:48.858+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:32:48.862+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:48.862+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:32:48.869+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.361 seconds
+[2025-03-26T22:34:02.833+0530] {processor.py:186} INFO - Started process (PID=9673) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:34:02.833+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:34:02.834+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:02.834+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:34:02.837+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:34:03.143+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:03.143+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:34:03.147+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:03.147+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:34:03.154+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.323 seconds
+[2025-03-26T22:35:23.938+0530] {processor.py:186} INFO - Started process (PID=9870) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:35:23.938+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:35:23.939+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:23.939+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:35:23.944+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:35:24.267+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:24.267+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:35:24.272+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:35:24.272+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:35:24.279+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.343 seconds
+[2025-03-26T22:36:43.649+0530] {processor.py:186} INFO - Started process (PID=10017) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:36:43.650+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:36:43.651+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:43.651+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:36:43.655+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:36:43.952+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:43.952+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:36:43.956+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:43.956+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:36:43.963+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.315 seconds
+[2025-03-26T22:38:05.278+0530] {processor.py:186} INFO - Started process (PID=10157) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:38:05.279+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:38:05.279+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:05.279+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:38:05.283+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:38:05.566+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:05.565+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:38:05.570+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:05.570+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:38:05.576+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.299 seconds
+[2025-03-26T22:39:21.767+0530] {processor.py:186} INFO - Started process (PID=10542) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:39:21.768+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:39:21.768+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:21.768+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:39:21.772+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:39:22.090+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:22.090+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:39:22.094+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:39:22.094+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:39:22.101+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.335 seconds
+[2025-03-26T22:40:36.977+0530] {processor.py:186} INFO - Started process (PID=10726) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:40:36.978+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:40:36.979+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:36.978+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:40:36.983+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:40:37.351+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:37.351+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:40:37.356+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:37.356+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:40:37.362+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.386 seconds
+[2025-03-26T22:41:57.980+0530] {processor.py:186} INFO - Started process (PID=10890) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:41:57.980+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:41:57.981+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:57.981+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:41:57.984+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:41:58.297+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:58.296+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:41:58.301+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:58.301+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:41:58.308+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.329 seconds
+[2025-03-26T22:43:19.619+0530] {processor.py:186} INFO - Started process (PID=11050) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:43:19.620+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:43:19.620+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:19.620+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:43:19.624+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:43:19.946+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:19.946+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:43:19.950+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:43:19.950+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:43:19.956+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.338 seconds
+[2025-03-26T22:44:33.239+0530] {processor.py:186} INFO - Started process (PID=11160) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:44:33.240+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:44:33.241+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:33.241+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:44:33.244+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:44:33.514+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:33.514+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:44:33.518+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:33.518+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:44:33.525+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.287 seconds
+[2025-03-26T22:45:48.935+0530] {processor.py:186} INFO - Started process (PID=11281) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:45:48.937+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:45:48.937+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:48.937+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:45:48.941+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:45:49.184+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:49.184+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:45:49.188+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:49.188+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:45:49.194+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.260 seconds
+[2025-03-26T22:47:05.931+0530] {processor.py:186} INFO - Started process (PID=11413) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:47:05.932+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:47:05.932+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:05.932+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:47:05.936+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:47:06.230+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:06.230+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:47:06.234+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:06.234+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:47:06.241+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.311 seconds
+[2025-03-26T22:48:20.506+0530] {processor.py:186} INFO - Started process (PID=11559) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:48:20.506+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:48:20.507+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:20.507+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:48:20.510+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:48:20.789+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:20.789+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:48:20.793+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:48:20.793+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:48:20.801+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.296 seconds
+[2025-03-26T22:49:31.339+0530] {processor.py:186} INFO - Started process (PID=11681) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:49:31.339+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:49:31.340+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:31.340+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:49:31.343+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:49:31.632+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:31.632+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:49:31.636+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:31.636+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:49:31.643+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.305 seconds
+[2025-03-26T22:50:48.520+0530] {processor.py:186} INFO - Started process (PID=12148) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:50:48.522+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T22:50:48.523+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:48.523+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:50:48.529+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T22:50:49.056+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:49.055+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T22:50:49.060+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:49.060+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T22:50:49.068+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.549 seconds
+[2025-03-26T23:25:25.281+0530] {processor.py:186} INFO - Started process (PID=12339) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T23:25:25.281+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-26T23:25:25.282+0530] {logging_mixin.py:190} INFO - [2025-03-26T23:25:25.282+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T23:25:25.286+0530] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-26T23:25:25.576+0530] {logging_mixin.py:190} INFO - [2025-03-26T23:25:25.576+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-26T23:25:25.581+0530] {logging_mixin.py:190} INFO - [2025-03-26T23:25:25.581+0530] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-26T23:25:25.587+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.308 seconds

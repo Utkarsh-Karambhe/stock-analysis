@@ -1,0 +1,170 @@
+[2025-03-26T22:08:06.230+0530] {processor.py:186} INFO - Started process (PID=6199) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:08:06.231+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:08:06.231+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:08:06.231+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:08:06.232+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:08:06.269+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:09:47.076+0530] {processor.py:186} INFO - Started process (PID=6713) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:09:47.078+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:09:47.078+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:09:47.078+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:09:47.080+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:09:47.116+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.041 seconds
+[2025-03-26T22:11:03.304+0530] {processor.py:186} INFO - Started process (PID=6850) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:11:03.305+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:11:03.306+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:11:03.305+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:11:03.307+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:11:03.344+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.041 seconds
+[2025-03-26T22:12:30.506+0530] {processor.py:186} INFO - Started process (PID=7021) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:12:30.508+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:12:30.508+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:12:30.508+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:12:30.509+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:12:30.544+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:14:19.897+0530] {processor.py:186} INFO - Started process (PID=7548) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:14:19.897+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:14:19.898+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:14:19.898+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:14:19.900+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:14:19.934+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:15:40.976+0530] {processor.py:186} INFO - Started process (PID=7697) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:15:40.977+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:15:40.977+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:15:40.977+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:15:40.979+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:15:41.013+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:17:00.986+0530] {processor.py:186} INFO - Started process (PID=7862) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:17:00.986+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:17:00.987+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:17:00.987+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:17:00.988+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:17:01.024+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:18:18.404+0530] {processor.py:186} INFO - Started process (PID=7992) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:18:18.405+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:18:18.406+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:18:18.406+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:18:18.407+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:18:18.445+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.041 seconds
+[2025-03-26T22:19:33.594+0530] {processor.py:186} INFO - Started process (PID=8121) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:19:33.594+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:19:33.595+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:19:33.595+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:19:33.597+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:19:33.632+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:20:53.106+0530] {processor.py:186} INFO - Started process (PID=8276) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:20:53.108+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:20:53.108+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:20:53.108+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:20:53.110+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:20:53.148+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.043 seconds
+[2025-03-26T22:22:09.533+0530] {processor.py:186} INFO - Started process (PID=8436) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:22:09.533+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:22:09.534+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:22:09.534+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:22:09.536+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:22:09.574+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.043 seconds
+[2025-03-26T22:23:23.015+0530] {processor.py:186} INFO - Started process (PID=8561) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:23:23.015+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:23:23.016+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:23:23.015+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:23:23.017+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:23:23.054+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:24:39.092+0530] {processor.py:186} INFO - Started process (PID=8694) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:24:39.093+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:24:39.094+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:24:39.094+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:24:39.095+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:24:39.131+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:26:03.927+0530] {processor.py:186} INFO - Started process (PID=8849) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:26:03.927+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:26:03.928+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:26:03.928+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:26:03.929+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:26:03.968+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.043 seconds
+[2025-03-26T22:27:22.317+0530] {processor.py:186} INFO - Started process (PID=8983) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:27:22.319+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:27:22.319+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:27:22.319+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:27:22.321+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:27:22.356+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:28:36.391+0530] {processor.py:186} INFO - Started process (PID=9108) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:28:36.392+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:28:36.393+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:28:36.392+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:28:36.394+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:28:36.429+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:30:01.379+0530] {processor.py:186} INFO - Started process (PID=9249) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:30:01.380+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:30:01.380+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:30:01.380+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:30:01.382+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:30:01.417+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:31:15.486+0530] {processor.py:186} INFO - Started process (PID=9390) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:31:15.487+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:31:15.487+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:31:15.487+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:31:15.488+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:31:15.524+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:32:25.288+0530] {processor.py:186} INFO - Started process (PID=9503) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:32:25.289+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:32:25.290+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:32:25.290+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:32:25.291+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:32:25.326+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:33:37.293+0530] {processor.py:186} INFO - Started process (PID=9632) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:33:37.293+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:33:37.294+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:33:37.294+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:33:37.295+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:33:37.330+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.038 seconds
+[2025-03-26T22:34:51.894+0530] {processor.py:186} INFO - Started process (PID=9806) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:34:51.895+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:34:51.895+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:34:51.895+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:34:51.897+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:34:51.940+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.048 seconds
+[2025-03-26T22:36:19.029+0530] {processor.py:186} INFO - Started process (PID=9965) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:36:19.029+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:36:19.030+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:36:19.030+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:36:19.031+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:36:19.065+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.038 seconds
+[2025-03-26T22:37:39.823+0530] {processor.py:186} INFO - Started process (PID=10116) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:37:39.823+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:37:39.824+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:37:39.824+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:37:39.825+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:37:39.860+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:38:55.736+0530] {processor.py:186} INFO - Started process (PID=10474) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:38:55.737+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:38:55.737+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:38:55.737+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:38:55.738+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:38:55.774+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:40:11.686+0530] {processor.py:186} INFO - Started process (PID=10651) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:40:11.686+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:40:11.687+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:40:11.687+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:40:11.688+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:40:11.723+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2025-03-26T22:41:32.156+0530] {processor.py:186} INFO - Started process (PID=10817) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:41:32.158+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:41:32.158+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:41:32.158+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:41:32.160+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:41:32.195+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.041 seconds
+[2025-03-26T22:42:50.254+0530] {processor.py:186} INFO - Started process (PID=10998) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:42:50.255+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:42:50.256+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:42:50.256+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:42:50.257+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:42:50.299+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.047 seconds
+[2025-03-26T22:44:09.027+0530] {processor.py:186} INFO - Started process (PID=11124) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:44:09.028+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:44:09.028+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:44:09.028+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:44:09.030+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:44:09.065+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.038 seconds
+[2025-03-26T22:45:24.892+0530] {processor.py:186} INFO - Started process (PID=11241) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:45:24.894+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:45:24.894+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:45:24.894+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:45:24.896+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:45:24.931+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:46:41.651+0530] {processor.py:186} INFO - Started process (PID=11376) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:46:41.654+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:46:41.654+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:46:41.654+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:46:41.656+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:46:41.690+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:47:55.826+0530] {processor.py:186} INFO - Started process (PID=11504) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:47:55.826+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:47:55.827+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:47:55.827+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:47:55.828+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:47:55.864+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:49:05.728+0530] {processor.py:186} INFO - Started process (PID=11631) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:49:05.729+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:49:05.729+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:49:05.729+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:49:05.731+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:49:05.766+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:50:22.413+0530] {processor.py:186} INFO - Started process (PID=12096) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:50:22.414+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:50:22.415+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:50:22.414+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:50:22.416+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:50:22.451+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.040 seconds
+[2025-03-26T22:51:47.891+0530] {processor.py:186} INFO - Started process (PID=12257) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:51:47.891+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-26T22:51:47.892+0530] {logging_mixin.py:190} INFO - [2025-03-26T22:51:47.892+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:51:47.893+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-26T22:51:47.928+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.038 seconds

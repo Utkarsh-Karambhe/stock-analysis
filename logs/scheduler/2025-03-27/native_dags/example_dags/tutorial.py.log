@@ -1,0 +1,358 @@
+[2025-03-27T07:06:17.594+0530] {processor.py:186} INFO - Started process (PID=13123) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:06:17.595+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:06:17.595+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:17.595+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:06:17.599+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:06:17.642+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:17.642+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:06:17.650+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:06:17.650+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:06:17.658+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2025-03-27T07:07:50.458+0530] {processor.py:186} INFO - Started process (PID=13454) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:07:50.461+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:07:50.462+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:50.461+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:07:50.471+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:07:50.522+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:50.522+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:07:50.538+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:07:50.538+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:07:50.546+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2025-03-27T07:09:09.421+0530] {processor.py:186} INFO - Started process (PID=13593) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:09:09.422+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:09:09.422+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:09.422+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:09:09.426+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:09:09.468+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:09.468+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:09:09.475+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:09:09.475+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:09:09.482+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2025-03-27T07:10:42.743+0530] {processor.py:186} INFO - Started process (PID=13751) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:10:42.743+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:10:42.744+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:42.744+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:10:42.747+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:10:42.786+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:42.786+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:10:42.793+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:10:42.793+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:10:42.799+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:12:04.892+0530] {processor.py:186} INFO - Started process (PID=13900) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:12:04.893+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:12:04.893+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:04.893+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:12:04.898+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:12:04.938+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:04.938+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:12:04.945+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:12:04.945+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:12:04.952+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2025-03-27T07:13:18.516+0530] {processor.py:186} INFO - Started process (PID=14026) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:13:18.517+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:13:18.517+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:18.517+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:13:18.520+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:13:18.559+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:18.558+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:13:18.566+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:13:18.566+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:13:18.572+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:14:34.567+0530] {processor.py:186} INFO - Started process (PID=14162) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:14:34.568+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:14:34.568+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:34.568+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:14:34.571+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:14:34.610+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:34.610+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:14:34.617+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:14:34.617+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:14:34.623+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:15:52.773+0530] {processor.py:186} INFO - Started process (PID=14296) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:15:52.773+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:15:52.774+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:52.774+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:15:52.777+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:15:52.815+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:52.815+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:15:52.823+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:15:52.823+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:15:52.829+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:17:05.014+0530] {processor.py:186} INFO - Started process (PID=14412) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:17:05.015+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:17:05.015+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:05.015+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:17:05.019+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:17:05.057+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:05.057+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:17:05.063+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:17:05.063+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:17:05.069+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T07:18:20.574+0530] {processor.py:186} INFO - Started process (PID=14539) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:18:20.575+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:18:20.575+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:20.575+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:18:20.578+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:18:20.619+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:20.619+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:18:20.626+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:18:20.626+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:18:20.632+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-27T07:19:30.876+0530] {processor.py:186} INFO - Started process (PID=14891) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:19:30.877+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:19:30.877+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:30.877+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:19:30.881+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:19:30.921+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:30.921+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:19:30.928+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:19:30.928+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:19:30.934+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-27T07:20:42.402+0530] {processor.py:186} INFO - Started process (PID=15062) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:20:42.402+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:20:42.403+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:42.403+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:20:42.406+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:20:42.444+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:42.444+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:20:42.451+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:20:42.451+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:20:42.457+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T07:21:56.762+0530] {processor.py:186} INFO - Started process (PID=15191) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:21:56.763+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:21:56.764+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:56.763+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:21:56.767+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:21:56.806+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:56.806+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:21:56.813+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:21:56.813+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:21:56.820+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.059 seconds
+[2025-03-27T07:23:06.716+0530] {processor.py:186} INFO - Started process (PID=15327) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:23:06.717+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:23:06.717+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:06.717+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:23:06.720+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:23:06.758+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:06.758+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:23:06.766+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:23:06.765+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:23:06.771+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T07:24:16.311+0530] {processor.py:186} INFO - Started process (PID=15459) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:24:16.312+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:24:16.312+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:16.312+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:24:16.315+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:24:16.354+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:16.354+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:24:16.362+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:24:16.362+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:24:16.368+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:25:28.817+0530] {processor.py:186} INFO - Started process (PID=15594) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:25:28.818+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:25:28.818+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:28.818+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:25:28.821+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:25:28.860+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:28.860+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:25:28.868+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:25:28.868+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:25:28.874+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:26:41.696+0530] {processor.py:186} INFO - Started process (PID=15712) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:26:41.697+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:26:41.697+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:41.697+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:26:41.700+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:26:41.738+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:41.738+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:26:41.745+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:26:41.745+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:26:41.751+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T07:27:54.863+0530] {processor.py:186} INFO - Started process (PID=15827) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:27:54.864+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:27:54.864+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:54.864+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:27:54.867+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:27:54.905+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:54.905+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:27:54.912+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:27:54.912+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:27:54.918+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T07:29:09.424+0530] {processor.py:186} INFO - Started process (PID=15964) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:29:09.425+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:29:09.426+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:09.426+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:29:09.429+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:29:09.468+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:09.467+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:29:09.475+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:29:09.474+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:29:09.480+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:30:23.738+0530] {processor.py:186} INFO - Started process (PID=16114) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:30:23.739+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:30:23.739+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:23.739+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:30:23.742+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:30:23.781+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:23.781+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:30:23.788+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:30:23.788+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:30:23.795+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:31:38.708+0530] {processor.py:186} INFO - Started process (PID=16254) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:31:38.709+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:31:38.710+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:38.710+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:31:38.713+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:31:38.752+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:38.752+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:31:38.759+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:31:38.759+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:31:38.765+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:32:53.751+0530] {processor.py:186} INFO - Started process (PID=16417) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:32:53.752+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:32:53.752+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:53.752+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:32:53.756+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:32:53.797+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:53.797+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:32:53.805+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:32:53.805+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:32:53.812+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2025-03-27T07:34:09.457+0530] {processor.py:186} INFO - Started process (PID=16582) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:34:09.458+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:34:09.459+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:09.458+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:34:09.462+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:34:09.504+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:09.504+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:34:09.512+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:34:09.512+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:34:09.519+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2025-03-27T07:35:27.135+0530] {processor.py:186} INFO - Started process (PID=16713) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:35:27.137+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:35:27.137+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:27.137+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:35:27.140+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:35:27.179+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:27.179+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:35:27.186+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:35:27.186+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:35:27.192+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:36:37.674+0530] {processor.py:186} INFO - Started process (PID=16840) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:36:37.675+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:36:37.675+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:37.675+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:36:37.678+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:36:37.716+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:37.716+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:36:37.724+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:36:37.724+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:36:37.730+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:39:24.005+0530] {processor.py:186} INFO - Started process (PID=17053) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:39:24.006+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:39:24.006+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.006+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:39:24.009+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:39:24.079+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.079+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-03-27T07:39:24.082+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.082+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial
+[2025-03-27T07:39:24.084+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.084+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-03-27T07:39:24.087+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.087+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial
+[2025-03-27T07:39:24.089+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.089+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2025-03-27T07:39:24.091+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.091+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2025-03-27T07:39:24.093+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.093+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial
+[2025-03-27T07:39:24.093+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.093+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:39:24.097+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.097+0530] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2025-03-27T07:39:24.101+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:39:24.101+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:39:24.107+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.103 seconds
+[2025-03-27T07:41:11.422+0530] {processor.py:186} INFO - Started process (PID=17470) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:41:11.423+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:41:11.424+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:11.423+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:41:11.427+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:41:11.479+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:11.479+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:41:11.488+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:41:11.488+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:41:11.496+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2025-03-27T07:42:29.257+0530] {processor.py:186} INFO - Started process (PID=17640) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:42:29.257+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:42:29.258+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:29.258+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:42:29.262+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:42:29.300+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:29.300+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:42:29.307+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:42:29.307+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:42:29.313+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:43:43.990+0530] {processor.py:186} INFO - Started process (PID=17825) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:43:43.991+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:43:43.991+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:43.991+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:43:43.994+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:43:44.033+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:44.033+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:43:44.040+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:43:44.039+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:43:44.046+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T07:44:57.187+0530] {processor.py:186} INFO - Started process (PID=18045) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:44:57.188+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:44:57.189+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:57.188+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:44:57.192+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:44:57.230+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:57.230+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:44:57.237+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:44:57.237+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:44:57.243+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:46:08.107+0530] {processor.py:186} INFO - Started process (PID=18218) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:46:08.107+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:46:08.108+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:08.107+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:46:08.111+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:46:08.149+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:08.149+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:46:08.156+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:46:08.156+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:46:08.162+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:47:55.787+0530] {processor.py:186} INFO - Started process (PID=18417) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:47:55.788+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:47:55.788+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:55.788+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:47:55.792+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:47:55.834+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:55.833+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:47:55.841+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:47:55.841+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:47:55.847+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2025-03-27T07:49:16.111+0530] {processor.py:186} INFO - Started process (PID=18564) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:49:16.111+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:49:16.112+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:16.112+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:49:16.115+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:49:16.154+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:16.154+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:49:16.161+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:49:16.161+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:49:16.168+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:50:33.791+0530] {processor.py:186} INFO - Started process (PID=18700) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:50:33.792+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:50:33.792+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:33.792+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:50:33.800+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:50:33.856+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:33.856+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:50:33.865+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:50:33.865+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:50:33.872+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2025-03-27T07:51:48.711+0530] {processor.py:186} INFO - Started process (PID=19161) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:51:48.712+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:51:48.712+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:48.712+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:51:48.716+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:51:48.757+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:48.757+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:51:48.765+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:51:48.765+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:51:48.772+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2025-03-27T07:52:40.416+0530] {processor.py:186} INFO - Started process (PID=19267) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:52:40.417+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:52:40.417+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:40.417+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:52:40.420+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:52:40.459+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:40.459+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:52:40.466+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:52:40.466+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:52:40.472+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:53:17.958+0530] {processor.py:186} INFO - Started process (PID=19352) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:53:17.959+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:53:17.959+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:17.959+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:53:17.962+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:53:18.001+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:18.001+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:53:18.008+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:53:18.008+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:53:18.015+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:54:31.657+0530] {processor.py:186} INFO - Started process (PID=19721) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:54:31.657+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:54:31.658+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:31.658+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:54:31.661+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:54:31.699+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:31.699+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:54:31.706+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:54:31.706+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:54:31.712+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T07:56:17.500+0530] {processor.py:186} INFO - Started process (PID=20427) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:56:17.501+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:56:17.501+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:17.501+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:56:17.504+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:56:17.544+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:17.544+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:56:17.551+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:56:17.551+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:56:17.557+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T07:57:32.677+0530] {processor.py:186} INFO - Started process (PID=20578) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:57:32.678+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:57:32.678+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:32.678+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:57:32.681+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:57:32.721+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:32.721+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:57:32.728+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:57:32.728+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:57:32.735+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.059 seconds
+[2025-03-27T07:58:51.311+0530] {processor.py:186} INFO - Started process (PID=20723) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:58:51.312+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T07:58:51.313+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:51.312+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:58:51.316+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T07:58:51.357+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:51.357+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T07:58:51.365+0530] {logging_mixin.py:190} INFO - [2025-03-27T07:58:51.365+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T07:58:51.371+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2025-03-27T08:00:08.720+0530] {processor.py:186} INFO - Started process (PID=20888) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:00:08.721+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:00:08.721+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:08.721+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:00:08.724+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:00:08.762+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:08.762+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:00:08.770+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:00:08.769+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:00:08.776+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T08:01:23.597+0530] {processor.py:186} INFO - Started process (PID=21007) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:01:23.597+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:01:23.598+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:23.598+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:01:23.601+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:01:23.638+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:23.638+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:01:23.645+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:01:23.645+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:01:23.652+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T08:02:40.194+0530] {processor.py:186} INFO - Started process (PID=21195) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:02:40.195+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:02:40.195+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:40.195+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:02:40.198+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:02:40.237+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:40.237+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:02:40.244+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:02:40.244+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:02:40.250+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2025-03-27T08:03:56.854+0530] {processor.py:186} INFO - Started process (PID=21334) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:03:56.855+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:03:56.855+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:56.855+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:03:56.858+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:03:56.897+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:56.897+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:03:56.904+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:03:56.904+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:03:56.911+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2025-03-27T08:05:09.042+0530] {processor.py:186} INFO - Started process (PID=21453) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:05:09.043+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:05:09.043+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:09.043+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:05:09.047+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:05:09.087+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:09.087+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:05:09.094+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:05:09.094+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:05:09.101+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2025-03-27T08:06:25.243+0530] {processor.py:186} INFO - Started process (PID=21585) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:06:25.244+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:06:25.244+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:25.244+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:06:25.247+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:06:25.285+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:25.285+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:06:25.292+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:06:25.292+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:06:25.299+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2025-03-27T08:07:42.366+0530] {processor.py:186} INFO - Started process (PID=21765) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:07:42.366+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:07:42.367+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:42.367+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:07:42.370+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:07:42.413+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:42.413+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:07:42.421+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:07:42.421+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:07:42.428+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2025-03-27T08:09:06.306+0530] {processor.py:186} INFO - Started process (PID=21915) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:09:06.307+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:09:06.307+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:06.307+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:09:06.311+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:09:06.354+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:06.354+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:09:06.362+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:09:06.362+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:09:06.369+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2025-03-27T08:10:22.470+0530] {processor.py:186} INFO - Started process (PID=22041) to work on /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:10:22.470+0530] {processor.py:914} INFO - Processing file /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-03-27T08:10:22.471+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:22.471+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:10:22.474+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-03-27T08:10:22.516+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:22.516+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T08:10:22.527+0530] {logging_mixin.py:190} INFO - [2025-03-27T08:10:22.527+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-03-26 00:00:00+00:00, run_after=2025-03-27 00:00:00+00:00
+[2025-03-27T08:10:22.534+0530] {processor.py:208} INFO - Processing /Users/uk/miniforge3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
