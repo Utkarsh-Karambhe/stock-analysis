@@ -5,7 +5,7 @@ This project implements an **Automated Data Pipeline** using **Apache Airflow, P
 
 ## Tech Stack
 - **Python** - Data extraction and processing
-- **PostgreSQL** - Database for storing real-time data.
+- **PostgreSQL** - Database for storing real-time data
 - **Apache Airflow** - Orchestrating ETL workflow
 - **Docker & Docker Compose** - Containerized environment
 - **APIs** - Fetching real-time stock data
